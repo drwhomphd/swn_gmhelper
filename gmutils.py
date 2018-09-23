@@ -22,6 +22,7 @@ class table:
         self.stage_cnt = 0
         self.stages = list() # Array of dice objects for each stage
         self.entries = dict() # Generation of the game table in the rule book
+        self._load()
 
     def _load(self):
         filehandle = open(self.filename, "r")
@@ -68,6 +69,12 @@ class table:
                 # We have a single entry
                 self.entries[int(dierange[0])] = tokens[1]
         print(self.entries)
+        print(self.stages)
+    # END _load
+
+    def return_table_entry(self):
+        print self.stages
+    #END return_table_entry
 
 
 
