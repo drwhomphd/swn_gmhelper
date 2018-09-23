@@ -1,0 +1,9 @@
+#Stages:1
+#S1Dice:2D6
+2,"Corrosive"
+3,"Inert Gas"
+4,"Airless or thin atmosphere"
+5-9,"Breathable mix"
+10,"Thick atmosphere, breathable with a pressure mask"
+11,"Invasive, toxic atmosphere"
+12,"Corrosive and invasive atmosphere"
