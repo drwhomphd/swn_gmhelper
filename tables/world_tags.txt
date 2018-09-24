@@ -1,0 +1,63 @@
+#Stages:2
+#S1Dice:1D6
+#S2Dice:1D10
+1,1,Abandoned Colony
+1,2,Alien Ruins
+1,3,Altered Humanity
+1,4,Area 51
+1,5,Badlands World
+1,6,Bubble Cities
+1,7,Civil War
+1,8,Cold War
+1,9,Colonized Population
+1,10,Desert World
+2,1,Eugenic Cult
+2,2,Exchange Consulate
+2,3,Feral World
+2,4,Flying Cities
+2,5,Forbidden Tech
+2,6,Freak Geology
+2,7,Freak Weather
+2,8,Friendly Foe
+2,9,Gold Rush
+2,10,Hatred
+3,1,Heavy Industry
+3,2,Heavy Mining
+3,3,Hostile Biosphere
+3,4,Hostile Space
+3,5,Local Specialty
+3,6,Local Tech
+3,7,Major Spaceyard
+3,8,Minimal Contact
+3,9,Misandry/Misogyny
+3,10,Oceanic World
+4,1,Out of Contact
+4,2,Outpost World
+4,3,Perimeter Agency
+4,4,Pilgrimage Site
+4,5,Police State
+4,6,Preceptor Archive
+4,7,Pretech Cultists
+4,8,Primitive Aliens
+4,9,Psionics Fear
+4,10,Psionics Worship
+5,1,Psionics Academy
+5,2,Quarantined World
+5,3,Radioactive World
+5,4,Regional Hegemon
+5,5,Restrictive Laws
+5,6,Rigid Culture
+5,7,Seagoing Cities
+5,8,Sealed Meance
+5,9,Sectarians
+5,10,Seismic Instability
+6,1,Secret Masters
+6,2,Theocracy
+6,3,Tomb World
+6,4,Trade Hub
+6,5,Tyranny
+6,6,Unbraked AI
+6,7,Warlords
+6,8,Xenophiles
+6,9,Xenophobes
+6,10,Zombies
