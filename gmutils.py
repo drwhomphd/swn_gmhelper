@@ -1,5 +1,6 @@
 import random
 import sys
+import json
 
 class dice:
     """ Class for rolling dice. """
@@ -11,7 +12,7 @@ class dice:
         result = 0
         for i in range(0,self.number):
             result = result + random.randint(1,self.sides)
-        print result
+        return result
     #End Roll
 
 class table:
@@ -26,54 +27,25 @@ class table:
 
     def _load(self):
         filehandle = open(self.filename, "r")
+        parsed_table = json.load(filehandle)
 
-        # First meta data field:
-        # Stages = Number of die rolls until we get to a result
-        stages = filehandle.readline()
-        stages = stages.strip()
-        assert stages[0] == "#"
+        self.stages_cnt = parsed_table["stages"]
 
-        tokens = stages[1:].split(':')
-        if(tokens[0] == "Stages"):
-            self.stage_cnt = int(tokens[1])
-        else:
-            print("Table file parsing error. Exiting.")
-            sys.exit(1)
+        for diecount in parsed_table["dice"]:
+            (count, sides) = diecount.split("D")
+            self.stages.append(dice(int(count), int(sides)))
 
-        # Second metadata field
-        # S#Dice <count>D<sides> = One entry for each stage relating to the dice type
-        for i in range(1, self.stage_cnt+1):
-            dicedef = filehandle.readline()
-            dicedef = dicedef.strip()
-            assert dicedef[0] == "#"
-            assert int(dicedef[2]) == i # Note this assumes we'll have less than 10 stages... a reasonable assumption.
-
-            # Parsing out <count>D<sides> and storing in the stages object
-            tokens = dicedef[1:].split(':')
-            tokens = tokens[1].split('D')
-            self.stages.append(dice(tokens[0], tokens[1]))
-
-        # All further lines are table definitions
-        for line in filehandle:
-            line = line.strip()
-            # <die range>,"<Table Entry>"
-            tokens=line.split(',', 1) # Stop after splitting the die range as entries may have commas as well
-
-            # Table entries can either be a single number or a range denoted with a '-'
-            dierange=tokens[0].split('-')
-            if(len(dierange) > 1):
-                # We have multiple enteries to add to a table
-                for i in range(int(dierange[0]), int(dierange[1])+1):
-                    self.entries[i] = tokens[1]
-            else:
-                # We have a single entry
-                self.entries[int(dierange[0])] = tokens[1]
-        print(self.entries)
-        print(self.stages)
+        self.entries = parsed_table["entries"]
     # END _load
 
-    def return_table_entry(self):
-        print self.stages
+    def return_result(self):
+        tag_result = None
+        for dice in self.stages:
+            if (tag_result == None):
+                tag_result = self.entries[str(dice.roll())]
+            else:
+                tag_result = tag_result[str(dice.roll())]
+        return tag_result
     #END return_table_entry
 
 
