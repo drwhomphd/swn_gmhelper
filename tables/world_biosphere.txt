@@ -1,0 +1,17 @@
+{
+    "stages":1,
+    "dice": [ "2D6" ],
+    "entries": {
+        "2": "Biosphere remnants",
+        "3": "Microbial life",
+        "4": "No native biosphere",
+        "5": "No native biosphere",
+        "6": "Human-miscible biosphere",
+        "7": "Human-miscible biosphere",
+        "8": "Human-miscible biosphere",
+        "9": "Immiscible biosphere",
+        "10": "Immiscible biosphere",
+        "11": "Hybrid biosphere",
+        "12": "Engineered biosphere"
+    }
+}

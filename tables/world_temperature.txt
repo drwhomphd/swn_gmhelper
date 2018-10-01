@@ -1,0 +1,17 @@
+{
+    "stages":1,
+    "dice": [ "2D6" ],
+    "entries": {
+        "2": "Frozen",
+        "3": "Vairiable cold-to-temperate",
+        "4": "Cold",
+        "5": "Temperate",
+        "6": "Warm",
+        "7": "Warm",
+        "8": "Warm",
+        "9": "Warm",
+        "10": "Warm",
+        "11": "Variable temperate-to-warm",
+        "12": "Burning"
+    }
+}

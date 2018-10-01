@@ -1,0 +1,17 @@
+{
+    "stages":1,
+    "dice": [ "2D6" ],
+    "entries": {
+        "2": "Tech level 0. Stone-age technology",
+        "3": "Tech level 1. Medieval technology",
+        "4": "Tech level 2. Nineteenth-century technology",
+        "5": "Tech level 3. Twentieth-century technology",
+        "6": "Tech level 3. Twentieth-century technology",
+        "7": "Tech level 4. Baseline postech.",
+        "8": "Tech level 4. Baseline postech.",
+        "9": "Tech level 4. Baseline postech.",
+        "10": "Tech level 4. Baseline postech.",
+        "11": "Tech level 4 with specialties or some surviving pretech.",
+        "12": "Tech level 5. Pretech, pre-Silence technology."
+    }
+}

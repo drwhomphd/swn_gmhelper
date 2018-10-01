@@ -1,0 +1,17 @@
+{
+    "stages":1,
+    "dice": [ "2D6" ],
+    "entries": {
+        "2": "Failed colony",
+        "3": "Outpost",
+        "4": "Tens of thousands of inhabitants",
+        "5": "Tens of thousands of inhabitants",
+        "6": "Hundreds of thousands of inhabitants",
+        "7": "Hundreds of thousands of inhabitants",
+        "8": "Hundreds of thousands of inhabitants",
+        "9": "Millions of inhabitants",
+        "10": "Million of inhabitants",
+        "11": "Billions of inhabitants",
+        "12": "Alien civilization"
+    }
+}
