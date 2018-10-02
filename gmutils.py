@@ -42,8 +42,10 @@ class table:
         tag_result = None
         for dice in self.stages:
             if (tag_result == None):
+                # String conversion because JSON-based dict's have keys stored as strings.
                 tag_result = self.entries[str(dice.roll())]
             else:
+                # String conversion because JSON-based dict's have keys stored as strings.
                 tag_result = tag_result[str(dice.roll())]
         return tag_result
     #END return_table_entry
