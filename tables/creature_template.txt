@@ -1,0 +1,12 @@
+{
+    "stages": 1,
+    "dice": [ "1D6" ],
+    "entries": {
+        "1": "Insectile",
+        "2": "Reptilian",
+        "3": "Mammalian",
+        "4": "Avian",
+        "5": "Exotic",
+        "6": "Hybrid"
+    }
+}

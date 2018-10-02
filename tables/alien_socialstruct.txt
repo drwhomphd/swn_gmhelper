@@ -1,0 +1,12 @@
+{
+    "stages": 1,
+    "dice": [ "1D6" ],
+    "entries": {
+        "1": "Democratic",
+        "2": "Monarchic",
+        "3": "Tribal",
+        "4": "Oligarchic",
+        "5": "Multipolar",
+        "6": "Multipolar"
+    }
+}

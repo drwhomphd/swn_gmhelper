@@ -1,0 +1,26 @@
+{
+    "stages": 1,
+    "dice": [ "1D20" ],
+    "entries": {
+        "1": "Collectivity",
+        "2": "Curiosity",
+        "3": "Despair",
+        "4": "Domination",
+        "5": "Faith",
+        "6": "Fear",
+        "7": "Gluttony",
+        "8": "Greed",
+        "9": "Hate",
+        "10": "Honor",
+        "11": "Journeying",
+        "12": "Joy",
+        "13": "Pacifism",
+        "14": "Pride",
+        "15": "Sagacity",
+        "16": "Subtlety",
+        "17": "Tradition",
+        "18": "Treachery",
+        "19": "Tribalism",
+        "20": "Wrath"
+    }
+}
