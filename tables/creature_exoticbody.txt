@@ -1,0 +1,27 @@
+{
+    "stages": 1,
+    "dice": [ "1D20" ],
+    "entries": {
+        "1": "Rocklike body",
+        "2": "1D4 pairs of eyestalks",
+        "3": "Rolls on wheels",
+        "4": "Chainsaw-like mouthparts or claws",
+        "5": "Metallic hide",
+        "6": "Natural laser emitters",
+        "7": "Launches chemically-powered darts",
+        "8": "Amoeba-llike body",
+        "9": "Crystalline tissues",
+        "10": "Gas-sack body",
+        "11": "2D10 tentacles",
+        "12": "Gelatinous liquid body",
+        "13": "Radioactive flesh",
+        "14": "Uses sonic attacks to stun prey",
+        "15": "Colony entity made up of numerous small animals",
+        "16": "Controlled by neural symbiont",
+        "17": "Absorbs electromagnetic energy",
+        "18": "Precious mineral carapace or exoskeleton",
+        "19": "Double damage from a particular type of injury",
+        "20": "Mobile plant life"
+    }
+}
+

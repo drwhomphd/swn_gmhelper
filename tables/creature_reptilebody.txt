@@ -1,0 +1,27 @@
+{
+    "stages": 1,
+    "dice": [ "1D20" ],
+    "entries": {
+        "1": "Sharped-edged scales",
+        "2": "1D4 pairs of eyes",
+        "3": "Extremely long tail",
+        "4": "Bellowing vocalization",
+        "5": "Burrowing foreclaws",
+        "6": "Hide is damp and slimy",
+        "7": "Eyeless",
+        "8": "Strong swimmer",
+        "9": "Spits venom",
+        "10": "Lies in ambush in bodies of water",
+        "11": "Brilliantly-hued scales or hide",
+        "12": "Horns or body spikes",
+        "13": "Large membranous frills",
+        "14": "Hibernates in cavves and undisturbed nooks",
+        "15": "Glowing body parts",
+        "16": "Body is patterned with both scales and hide",
+        "17": "Springs on prey from elevated places",
+        "18": "Warm-blooded",
+        "19": "Furred",
+        "20": "Limbless body"
+    }
+}
+

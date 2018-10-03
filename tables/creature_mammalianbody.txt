@@ -1,0 +1,27 @@
+{
+    "stages": 1,
+    "dice": [ "1D20" ],
+    "entries": {
+        "1": "Multiple mouths",
+        "2": "Quill-like fur",
+        "3": "Prehensile tail",
+        "4": "Eyes or eyespots on body",
+        "5": "Membranous wings",
+        "6": "Stench glands",
+        "7": "Peculiar vocalization",
+        "8": "Marsupial pouch",
+        "9": "Patterned fur or hide",
+        "10": "Expands or inflates when threatened",
+        "11": "Strictly nocturnal",
+        "12": "1D6+1 limbs, including any tail",
+        "13": "Mottled or mangy fur",
+        "14": "Fires darts of quills",
+        "15": "Animal is cold-blooded",
+        "16": "Horns or body spikes",
+        "17": "Superb scent tracker",
+        "18": "Burrowing creature",
+        "19": "Creature lacks a sense -- hearing, sight, or smell",
+        "20": "Creature is abnormally clever for an animal"
+    }
+}
+

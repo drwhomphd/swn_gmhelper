@@ -1,0 +1,26 @@
+{
+    "stages": 1,
+    "dice": [ "1D20" ],
+    "entries": {
+        "1": "Sucking mouthparts",
+        "2": "Chewing mouthparts",
+        "3": "Jewel-colored chitin",
+        "4": "2D4 Pairs of Limbs",
+        "5": "Membranous Wings",
+        "6": "Deposits eggs in live prey",
+        "7": "Has 'silk' spinnerets",
+        "8": "Has a chrysalis life stage",
+        "9": "No mouth; adult form lives only to reproduce",
+        "10": "1D4 pairs of eyes or eyespots",
+        "11": "Sluglike body",
+        "12": "Color-changing exoskeleton",
+        "13": "Always encountered in groups",
+        "14": "Hums or buzzes in intricate patterns",
+        "15": "Lives in hives led by a queen",
+        "16": "Killing one causes others nearby to go berserk",
+        "17": "Emits powerful pheremones",
+        "18": "Hides itself to ambush prey",
+        "19": "Prefers subterranean environments",
+        "20": "Emits noxious or poisonous stench when killed"
+    }
+}

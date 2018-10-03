@@ -1,0 +1,26 @@
+{
+    "stages": 1,
+    "dice": [ "1D20" ],
+    "entries": {
+        "1": "Sharp feathers",
+        "2": "1D3 pairs of wings",
+        "3": "Long,sinuous neck",
+        "4": "Brilliant coloration",
+        "5": "Membranous wings",
+        "6": "Can hover",
+        "7": "Beautiful song",
+        "8": "Flightless",
+        "9": "Fights prey on the ground",
+        "10": "Launches secretions at prey",
+        "11": "Lifts and drops prey",
+        "12": "Exhales flame or other toxic substance",
+        "13": "Always appears in groups",
+        "14": "Long prehensile tail",
+        "15": "Animal is cold-blooded",
+        "16": "Fure instead of feathers",
+        "17": "Scales instead of feathers",
+        "18": "Toothed beak",
+        "19": "Has valuable or delicious eggs",
+        "20": "Flies by means of lighter-than-air gas"
+    }
+}
