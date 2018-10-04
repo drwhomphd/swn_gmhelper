@@ -1,0 +1,12 @@
+{
+    "stages":1,
+    "dice": [ "1D6" ],
+    "entries": {
+        "1": "Anarchy! The government collapses. On a 4+ on 1d6, it is replaced by a Tribalism centered around individual settlements or kinship groupings. On 3 or less, zealous revolutionaries are successful in entrenching their own ideals; roll randomly on the government type table.",
+        "2": "The government weathers the change without essential alteration.",
+        "3": "The oligarchs are ruthlessly subdued by the strongest among them, who rises to found a persistent Autocracy",
+        "4": "The oligarchy calcifies until power and prestige become based on heredity, giving way to an eventual Monarchy of the foremost.",
+        "5": "The oligarchy begins to factionalize on the basis of popular support and economic interests, giving way to the multiple power blocs of Corporatism.",
+        "6": "The oligarchy fragments as the individual participants begin to refuse to cooperate, leading to a Feudalism among the survivors."
+    }
+}

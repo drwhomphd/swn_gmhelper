@@ -1,0 +1,12 @@
+{
+    "stages":1,
+    "dice": [ "1D6" ],
+    "entries": {
+        "1": "Anarchy! The government collapses. On a 4+ on 1d6, it is replaced by a Tribalism centered around individual settlements or kinship groupings. On 3 or less, zealous revolutionaries are successful in entrenching their own ideals; roll randomly on the government type table.",
+        "2": "The government weathers the crisis without change.",
+        "3": "The technocracy gradually ceases to recruit outsiders, transforming into a closed Oligarchy.",
+        "4": "The expertise of the technocracy is slowly absorbed under a thick layer of ritual and obfuscation, transforming it into a Theocracy legitimated by faith.",
+        "5": "The technocrats methodically work to seize full control and technical domination of some resource vital to life on that world, transforming into a Hydraulic Despotism",
+        "6": "The technocrats develop close ties with individual corporations or special interest groups, ties that eventually absorb them into a burgeoning Corporatist state."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "stages":1,
+    "dice": [ "1D6" ],
+    "entries": {
+        "1": "Anarchy! The government collapses. On a 4+ on 1d6, it is replaced by a Tribalism centered around individual settlements or kinship groupings. On 3 or less, zealous revolutionaries are successful in entrenching their own ideals; roll randomly on the government type table.",
+        "2": "The government weathers the crisis without change.",
+        "3": "A leader from among the feudal families rises to preeminence, conferring legitimacy on his or her descendants in a new Monarchy.",
+        "4": "Ties of trade and exchange strengthen those feudal lords willing to cooperate over those who stand aloof, transforming them into a united Oligarchy.",
+        "5": "Savage struggling among the feudal rulers eventually gives way to an Autocrat with legitimacy resting purely on the military or economic strength of their own domain.",
+        "6": "Individual feudal lords prove too weak to suppress the commoners, while those who embrace the popular will gain the benefit of their enthusiastic support. Over time, these rulers are effectively chosen by the populace, forming the core of a new Republic."
+    }
+}

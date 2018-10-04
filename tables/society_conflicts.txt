@@ -1,0 +1,17 @@
+{
+    "stages":1,
+    "dice": [ "1D10" ],
+    "entries": {
+        "1": "Bigotry",
+        "2": "Freedom",
+        "3": "Inequality",
+        "4": "Land",
+        "5": "Nationalism",
+        "6": "Privation",
+        "7": "Resentment",
+        "8": "Resources",
+        "9": "Schism",
+        "10": "War"
+    }
+}
+

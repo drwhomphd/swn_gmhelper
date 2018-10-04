@@ -1,0 +1,12 @@
+{
+    "stages": 1,
+    "dice": [ "1D6" ],
+    "entries": {
+        "1": "Anarchy! The government collapses. On a 4+ on 1d6, it is replaced by a Tribalism centered around individual settlements or kinship groupings. On 3 or less, zealous revolutionaries are successful in entrenching their own ideals; roll randomly on the government type table.",
+        "2": "The goverment weathers the crisis without change.",
+        "3": "The autocrat is overthrown by a popular uprising that rapidly degenerates into a Military Dictatorship as the strongest remaining military force seizes control.",
+        "4": "The autocrat steps down out of conviction or weakness, resulting in a nascent Republic of opposition group leaders.",
+        "5": "The autocrat loses control of his underlings as the government fragments into a Feudal array of independent bureau chiefs or warlords.",
+        "6": "The autocrat seeks the legitimacy of religious support, but the government is consumed by the passions it provokes and becomes a Theocracy"
+    }
+}

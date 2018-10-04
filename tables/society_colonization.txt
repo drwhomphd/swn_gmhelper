@@ -1,0 +1,26 @@
+{
+    "stages": 1,
+    "dice": [ "1D20" ],
+    "entries": {
+        "1": "Castaways",
+        "2": "Corporate factory world",
+        "3": "Ethnic or national purity",
+        "4": "Excaation site",
+        "5": "Exiles",
+        "6": "Exotic genotype",
+        "7": "Homeworld overpopulation",
+        "8": "Invaasion force",
+        "9": "Liaison outpost",
+        "10": "Mandate malcontents",
+        "11": "Military outpost",
+        "12": "Political liberty",
+        "13": "Precious export",
+        "14": "Prison planet",
+        "15": "Refueling outpost",
+        "16": "Religious liberty",
+        "17": "Research outpost",
+        "18": "Rich natural resources",
+        "19": "Social liberty",
+        "20": "Trade hub"
+    }
+}

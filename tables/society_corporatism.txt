@@ -1,0 +1,12 @@
+{
+    "stages":1,
+    "dice": [ "1D6" ],
+    "entries": {
+        "1": "Anarchy! The government collapses. On a 4+ on 1d6, it is replaced by a Tribalism centered around individual settlements or kinship groupings. On 3 or less, zealous revolutionaries are successful in entrenching their own ideals; roll randomly on the government type table.",
+        "2": "The government weathers the crisis without change.",
+        "3": "The corporate blocs crumble as old special interests and affiliation ties cease to have meaning. Their representatives are now elected in an effective Republic.",
+        "4": "The elite of the corporate bodies entrench themselves as bureaucrats and executives over the population, becoming a self-perpetuating Technocracy.",
+        "5": "The military evolves into its own corporate body, seizing control from the others to form a new Military Dictatorship",
+        "6": "One corporate body gradually becomes preeminent, forming the basis of an ongoing Autocracy"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "stages":1,
+    "dice": [ "1D6" ],
+    "entries": {
+        "1": "Anarchy! The government collapses. On a 4+ on 1d6, it is replaced by a Tribalism centered around individual settlements or kinship groupings. On 3 or less, zealous revolutionaries are successful in entrenching their own ideals; roll randomly on the government type table.",
+        "2": "The voernment weathers the crisis without change.",
+        "3": "The population becomes too unwieldy or dispersed to participate in direct democracy any more, and the government becomes a Republic.",
+        "4": "Special interest groups and economic classes harden their lines, transforming the democracy into a Corporatist government based on representatives of those groups.",
+        "5": "A charismatic demagogue forms the nucleus of an Autocracy that abolishes the relicts of democratic government.",
+        "6": "Passionate religious enthusiasm among the populace is responsible for the democracy's transformation into an eventual Theocracy."
+    }
+}

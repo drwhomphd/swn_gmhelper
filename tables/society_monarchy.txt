@@ -1,0 +1,12 @@
+{
+    "stages":1,
+    "dice": [ "1D6" ],
+    "entries": {
+        "1": "Anarchy! The government collapses. On a 4+ on 1d6, it is replaced by a Tribalism centered around individual settlements or kinship groupings. On 3 or less, zealous revolutionaries are successful in entrenching their own ideals; roll randomly on the government type table.",
+        "2": "The government weathers the change without essential alteration.",
+        "3": "Important relatives of the monarch begin to form their own personal power bases, fragmenting the government into Feudalism.",
+        "4": "The monarchy gradually cedes more and more power to representative councils and parliaments until the government is effectively a Republic.",
+        "5": "A usurpation or contested bloodline robs the monarchy of its hereditary legitimacy, leaving it to rule by force of arms as a Military Dictatorship.",
+        "6": "The monarch becomes so cloistered behind rite and custom that he or she loses control over the government, which becomes a bureaucratic Technocracy."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "stages":1,
+    "dice": [ "1D8" ],
+    "entries": {
+        "1": {
+            "details": "",
+            "constraints": "",
+            "changes": ""
+        },
+        "2": {
+            "details": "",
+            "constraints": "",
+            "changes": ""
+        },
+        "3": {
+            "details": "",
+            "constraints": "",
+            "changes": ""
+        },
+        "4": {
+            "details": "",
+            "constraints": "",
+            "changes": ""
+        },
+        "5": {
+            "details": "",
+            "constraints": "",
+            "changes": ""
+        },
+        "6": {
+            "details": "",
+            "constraints": "",
+            "changes": ""
+        },
+        "7": {
+            "details": "",
+            "constraints": "",
+            "changes": ""
+        },
+        "8": {
+            "details": "",
+            "constraints": "",
+            "changes": ""
+        },
+    }
+}
+

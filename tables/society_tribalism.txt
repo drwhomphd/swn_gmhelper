@@ -1,0 +1,12 @@
+{
+    "stages":1,
+    "dice": [ "1D6" ],
+    "entries": {
+        "1": "The isolated, fractious groups fail to come together in some more complex governmental form.",
+        "2": "The tribes make a false start at some other form of government that persists briefly before the guiding leaders die or the bloc that formed them collapses; roll randomly on the government type table to see what this brief interlude was like.",
+        "3": "The tribes work out a wary confederation of representatives that strengthens into a Republic.",
+        "4": "Individual tribal groupings form the interest blocs and corporate entities that congeal into a Corporatist government.",
+        "5": "A charismatic conqueror binds the tribes together in a nascent Military Dictatorship.",
+        "6": "An inspired prophet brings a faith that spreads rapidly through the tribes, binding them together in ties of mutual belief that evolve into a Theocracy."
+    }
+}

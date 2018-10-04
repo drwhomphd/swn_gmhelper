@@ -1,0 +1,21 @@
+{
+    "stages": 1,
+    "dice": [ "1D12" ],
+    "entries": {
+        "1": "Autocracy",
+        "2": "Corporatism",
+        "3": "Democracy",
+        "4": "Feudalism",
+        "5": "Hydraulic Despotism",
+        "6": "Military Dictatorship",
+        "7": "Monarchy",
+        "8": "Oligarchy",
+        "9": "Republic",
+        "10": "Technocracy",
+        "11": "Theocracy",
+        "12": "Tribalism"
+    }
+}
+
+
+

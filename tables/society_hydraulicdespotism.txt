@@ -1,0 +1,12 @@
+{
+    "stages":1,
+    "dice": [ "1D6" ],
+    "entries": {
+        "1": "Anarchy! The government collapses. On a 4+ on 1d6, it is replaced by a Tribalism centered around individual settlements or kinship groupings. On 3 or less, zealous revolutionaries are successful in entrenching their own ideals; roll randomly on the government type table.",
+        "2": "The government weathers the crisis without change.",
+        "3": "Control over the vital resource is fragmented, no longer in the hands of a single controlling body. Multiple sources of the good now exist, forming the basis of a new Feudalism.",
+        "4": "Control over the resource is lost, but the administrative and technical expertise of the former rulers situates them to become the Technocratic lords of the new government.",
+        "5": "The resource is now widely available, and each individual source demands its own say in government, forming the interest blocs of a new Corporatism.",
+        "6": "With the loss of control over the vital resource, power suddenly becomes localized in military strength, giving birth to a new Military Dictatorship by the strongest martial power."
+    }
+}

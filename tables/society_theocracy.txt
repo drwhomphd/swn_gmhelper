@@ -1,0 +1,12 @@
+{
+    "stages":1,
+    "dice": [ "1D6" ],
+    "entries": {
+        "1": "Anarchy! The government collapses. On a 4+ on 1d6, it is replaced by a Tribalism centered around individual settlements or kinship groupings. On 3 or less, zealous revolutionaries are successful in entrenching their own ideals; roll randomly on the government type table.",
+        "2": "The government weathers the crisis without change.",
+        "3": "The theocracy splinters into a Tribalism based around numerous local sects and hierarchies, which may or may not view each other kindly.",
+        "4": "The theocracy gradually loses its religious legitimacy, becoming an Autocracy based on military or economic might shaded by a patina of religion.",
+        "5": "Individual sects and congregations force the theocracy to divest itself of its autocratic power, becoming a Republic made up of representatives chosen by the different groups.",
+        "6": "The government gradually breaks up into multiple regional hierarchs, each of whom maintains Feudal rights over the surrounding faithful."
+    }
+}
