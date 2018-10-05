@@ -3,45 +3,45 @@
     "dice": [ "1D8" ],
     "entries": {
         "1": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Venal mercantile powers corrupted the government- or vica versa- into ensuring that they held the vast majority of the planet's wealth.",
+            "constraints": "The oppression is tempered by fear of violent riots and uprisings by the oppresed.",
+            "changes": "The oppressed have cultural patterns that server to cripple their own prosperity and freedom."
         },
         "2": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Most wealth was concentrated in the hands of a narrow caste who used the law to perpetuate their affluence.",
+            "constraints": "Rebels operate guerilla cells among the oppressed.",
+            "changes": "Large meetings or groups of people are forbidden to assemble on this world."
         },
         "3": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Certain castes or groups were considered to be distinctly superior.",
+            "constraints": "The oppressors feel a paternalistic need to 'protect' the oppressed.",
+            "changes": "Different groups of oppressed despise each other as lapdogs or troublemakers."
         },
         "4": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Onerous civic duties were imposed upon a particular disfavored group.",
+            "constraints": "An outside power threatens to intervene if the oppression grows too great.",
+            "changes": "The oppressed share their own language and form of dress."
         },
         "5": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Members of a particular ethnicity, religion, or caste are ensalved.",
+            "constraints": "The oppressed provide a vital service for their oppressors.",
+            "changes": "The oppressors encourage various harmful habits in the oppressed."
         },
         "6": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "A substantial portion of the population is considered unfit for self-government.",
+            "constraints": "The oppressed play various powerful oppressors off against each other.",
+            "changes": "It is possible for a disgraced member of the elite to be degraded from their state."
         },
         "7": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Only certain groups or castes are permitted to run businesses or possess significant wealth.",
+            "constraints": "The oppressed are convinced by faith or culture that this is their proper lot.",
+            "changes": "The same groups vary the patterns of oppressor and oppressed at different places or times."
         },
         "8": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
-        },
+            "details": "Only certain groups or castes are permitted to receive education beyond their work needs.",
+            "constraints": "The elite among the oppressed are allowed entrance into the oppressor class.",
+            "changes": "The oppressed have constructed a past where they once ruled- truth or fiction as it may be."
+        }
     }
 }
 

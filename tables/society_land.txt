@@ -3,45 +3,45 @@
     "dice": [ "1D8" ],
     "entries": {
         "1": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The land has religious importance, and the owners of it control the local majority faith.",
+            "constraints": "The land has a fragile ecology or geology, and might be rendered worthless by serious fighting.",
+            "changes": "Natives get very ugly towards strangers who fail to admit the obvious legitimacy of their claims."
         },
         "2": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The land constitutes the planet's first settlement, and holding it grants the possessor governmental control.",
+            "constraints": "The land is presenty uneasily shared by both sides, though neigh are satisified.",
+            "changes": "The locals have an acute sensitivity towards trespassing of all kinds, and punish it ruthlessly."
         },
         "3": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Two populations fight over ancestral lands too small to now hold them both.",
+            "constraints": "The current natives of the land detest both sides involved.",
+            "changes": "Much of the local music revolves around the disputed land and its preciousness."
         },
         "4": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Ancient deeds of possession seem to grant the land to more than one owner.",
+            "constraints": "The land's value is limited without certain presently-lost secrets.",
+            "changes": "'Refugees' displaced for generations are used as political pawns."
         },
         "5": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The land is said to conceal ancient pretech relics or lost treasure.",
+            "constraints": "One side could afford to lose the land, and is considering cutting their losses.",
+            "changes": "Guerilla fighting over the land is an honored tradition for youths."
         },
         "6": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The land is rich in some precious resource.",
+            "constraints": "Control of the land seesaws back and forth with no permanent resolution.",
+            "changes": "Outisders are vigorously recruited for the struggle for the possession."
         },
         "7": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The land is just a proxy; one side simply wishes to destroy the other, and so uses the dispute as an excuse for conflict.",
+            "constraints": "A third party stands ready to steal the land if the quarreling group exhaust themselves in direct combat.",
+            "changes": "The locals ignore even objectively superior, more valuable land in favor of fighting over this foot of earth."
         },
         "8": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
-        },
+            "details": "The land is partly populated by members of a group that now wishes to seize it to 'protect their countrymen'.",
+            "constraints": "Both sides are confident that their diplomats can force a concession, and are holding back from war at present.",
+            "changes": "The heirs of the land's former rulers are kept as bargaining chips by powerful factions."
+        }
     }
 }
 

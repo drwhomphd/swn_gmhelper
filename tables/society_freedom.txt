@@ -3,45 +3,45 @@
     "dice": [ "1D8" ],
     "entries": {
         "1": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Slavery is an accepted part of the society, provoking anger among native abolitionists.",
+            "constraints": "The majority of citizens are sincerely convinced that the desired freedom is harmful.",
+            "changes": "Secret cells form in the society to advance the greater cause."
         },
         "2": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Speech is strictly regulated by the government.",
+            "constraints": "The freedom desired was once held, and has only been restricted fairly recently.",
+            "changes": "Discussion of the conflict is forbidden in 'decent' society."
         },
         "3": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The government claims the right to restrict travel and social associations.",
+            "constraints": "The rebels are reluctant to press their case out of fear or a desire for peace.",
+            "changes": "Supporters of the cause self-segregate by marriage and association."
         },
         "4": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Rigid castes compel natives into certain preordained careers or social roles.",
+            "constraints": "The freedom was once held, and is blamed for some great disaster.",
+            "changes": "Support for the cause becomes bound up in a specific religion or ethnicity."
         },
         "5": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The dominant culture is convinced that they have a perfect society, and any deviation from its norms is a seed of evil.",
+            "constraints": "The freedom is selectively extended to the powerful and important, blunting their concerns.",
+            "changes": "The government or dominant culture carefully watches outsiders lest they encourage the discontentded."
         },
         "6": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Only the govermnet or the elite are permitted to own private property.",
+            "constraints": "Agitators paid by the ruling class paint the freedom as an invitation to chaos.",
+            "changes": "More than a few rulers and officials secretly sympathize with the malcontents."
         },
         "7": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Freedom of conscience does not exist; all are exposed to subscribe to the religious beliefs of the dominant group.",
+            "constraints": "Certain poor or unimportant areas of the planet have the freedom, attracting the most vigorous proponents.",
+            "changes": "Supporters of the cause cultivate wildly implausible expectations of what the freedom will bring them."
         },
         "8": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
-        },
+            "details": "A minority seeks the politicla independence from the greater society.",
+            "constraints": "The government or ruling class is constantly promising that the freedom will soon be recognized.",
+            "changes": "The malconents' leader have succumbed to cynicism and greed, and use their supporters as pawns for their ends."
+        }
     }
 }
 

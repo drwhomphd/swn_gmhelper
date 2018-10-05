@@ -3,45 +3,45 @@
     "dice": [ "1D8" ],
     "entries": {
         "1": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "A small but vigorous religion is considered a dangerous social menace.",
+            "constraints": "The scorned group has significant military or financial power.",
+            "changes": "Intermarriage and social dealings with the scorned are forbidden."
         },
         "2": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "A particular ethnicity is thought to be unfit for more than brute labor.",
+            "constraints": "Tradition reserves certain important roles for members of the scorned group.",
+            "changes": "Intermarriage and social dealings with the scorned are forbidden."
         },
         "3": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Locals from a particular region are viewed as stupid, treacherous, or violent.",
+            "constraints": "The locals have a sense of paternalistic obligation toward their 'lessers'.",
+            "changes": "Families celebrate the 'purity' of their lineage."
         },
         "4": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "A gengineered strain of humanity is counted unworthy of true human rights.",
+            "constraints": "The oppressed have been convinced that their treatment is only just.",
+            "changes": "The scorned are forced to wander from community to community."
         },
         "5": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Citizens of a conquered nation or community are viewed as contemptible weaklings.",
+            "constraints": "The scorned group is prone to outbreaks of savage reprisal against the bigots.",
+            "changes": "A certain mode of dress or behavior common to the scorned is forbidden to others."
         },
         "6": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "An alien enclave is regarded in the worst possible light, their traits exaggerated as moral flaws.",
+            "constraints": "Both the scorned and the bigots have roughly equal power and influence, though perhaps in different spheres.",
+            "changes": "The scorned are forbidden from accumulating wealth of property beyond what they need for bare survival"
         },
         "7": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The ruling elite and their functionaries view the common people as beasts.",
+            "constraints": "The scorned have ordered their own culture in ways that resist the bigots.",
+            "changes": "Contracts and promises to the scorned can be nullified when convenient."
         },
         "8": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
-        },
+            "details": "Forbidden maltech genetic science has been used to breed a race of cognitively limited or physically disabled humans.",
+            "constraints": "A recent program has provoked an uneasy sense of going too far among the bigots.",
+            "changes": "Members of the scorned are taken for concubines, though openly admitting as much is social suicide."
+        }
     }
 }
 
