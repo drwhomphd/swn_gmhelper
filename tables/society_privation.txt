@@ -3,45 +3,45 @@
     "dice": [ "1D8" ],
     "entries": {
         "1": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Food plants are olverwhelmed by an alien disease that causes famine.",
+            "constraints": "Strong communal mores compel sharing on pain of death or exile.",
+            "changes": "The needed resource becomes the foundation of their monetary system."
         },
         "2": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Water on this world requires processing to remove trace poisons, and the processing is difficult.",
+            "constraints": "Marginal societal members are denied resources in order that the others may have enough.",
+            "changes": "For food or water-limited socieies cannibalism or human dessication is accepted."
         },
         "3": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Only a few, insufficient areas of the planet can be used for agriculture.",
+            "constraints": "Contraception or infanticide is used to keep the population within rigid limits.",
+            "changes": "Wasting the resource is a capital offense."
         },
         "4": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The atmosphere as trace impurities and costly filtration or genetic therepy is needed to avoid respiratory disease.",
+            "constraints": "Status and power in society revolves around producing or controlling the needed resource.",
+            "changes": "Judicial punishments revolve around restricting resource access."
         },
         "5": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Drastic weather patterns restrict the habitable areas of the planet.",
+            "constraints": "Relic pretech is available to provide the resource, though it cannot be repaired.",
+            "changes": "The natives are bred or gengineered to require less of the resources."
         },
         "6": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Many areas of the planet are naturally radioactive, requiring costly filters.",
+            "constraints": "The privation is cyclical; the phenomenon abates or eases at times",
+            "changes": "Places where the resource is produced or purified are sacrosanct."
         },
         "7": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The local biosphere's crops provide minimal nutrition, requiring costly supplemental diets.",
+            "constraints": "Social groups struggle for control of the resources; the losers get a small share to prevent open warfare.",
+            "changes": "Social ties all revolve around relationships with a particular resource provider."
         },
         "8": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
-        },
+            "details": "The soild of the world is slightly toxic, requiring elaborate cleansing and filtration systems for homes and crops.",
+            "constraints": "The local scavenge supplies from the ruins or ancient caches to support their population.",
+            "changes": "Prophets and demagogues rise based on their ability to provide more of a resources."
+        }
     }
 }
 

@@ -3,45 +3,45 @@
     "dice": [ "1D8" ],
     "entries": {
         "1": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The division is the result of an old civil war with an indecisive outcome.",
+            "constraints": "The nations are too evenly matched in military power to gurantee victory.",
+            "changes": "Flags and national insights are considered semi-sacred."
         },
         "2": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Different ethnicities have formed the nations, and deal harshly with others.",
+            "constraints": "The nations are too tightly economically interwoven to afford open war.",
+            "changes": "Particular songs, colors, or objects are considered symbols of allegiance."
         },
         "3": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "One of the nations is a breakaway province with a long list of grievances.",
+            "constraints": "A natural peril demands cooperation among the planet's nations.",
+            "changes": "Outsiders tend to be treated as spies for the enemy nation."
         },
         "4": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "One of the nations is a haven to a downtrodden class despised by others.",
+            "constraints": "Natural barriers seperate the nations.",
+            "changes": "War refugees live in brutal poverty."
         },
         "5": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The nations stem from different colonization attempts.",
+            "constraints": "Strong peace parties exist in both nations, though they remain minorities.",
+            "changes": "Social status is now based on 'patriotic sacrifice'."
         },
         "6": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "A planetary government exists only in name- in truth, the world is balkanized into numerous small states.",
+            "constraints": "The nations recently fought an inconclusive war, and most fear a second round might finish them off.",
+            "changes": "Membership in the state majority religion is considered necessary for all 'real patriots'."
         },
         "7": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Each state sees the others as dangerous rivals for resources and control",
+            "constraints": "The current rulers are trying to cool down tensions between the nations.",
+            "changes": "Propaganda has convinced the locals of numerous complete falsehoods."
         },
         "8": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
-        },
+            "details": "The nations appear almost identical in culture and ideals, but the locals insist that the tiny differences are of dramatic moral importance.",
+            "constraints": "A religious reformer is calling on co-religionsists on both sides to calm their ardor.",
+            "changes": "Both sides are struggling fiercely to contain the other, trying to prevent them from forming alliances with outside powers- or offworlders."
+        }
     }
 }
 
