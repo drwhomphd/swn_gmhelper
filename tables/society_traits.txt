@@ -11,16 +11,16 @@
         "7": "Curious. People are distinctly inquisitive and given to exploration and research - and spying on each other.",
         "8": "Envious. People who accumulate too much wealth or influence are often torn down by envious neighbors.",
         "9": "Fractious. The society is prone to sharp, harsh disputes and a shifting mosaic of ever-changing alliances.",
-        "10": "Harmonious. Open conflict is shunned, as is direct disagreement. Disputes are settled in subtler fashion."
-        "11": "Hedonistic. The society prizes pleasures of all kinds above considerations of prudence or thrift."
-        "12": "Honorable. People feel a keen responsibility toward their duties and their personal integrity."
-        "13": "Individualistic. Members of the society can adopt eccentricities and strange beliefs without censure."
-        "14": "Pacifistic. The society has a horror of killing, and people do not consider lethal violence an acceptable tool."
-        "15": "Rational. The society is highly rationalistic and not given to religious or magical thinking."
-        "16": "Resigned. People lack ambition or hope, and endure their present difficulties with stoic patience."
-        "17": "Self-confident. The society is convinced that is a model of virtue and excellence, and that other, lesser cultures are in need of being reformed along its lines."
-        "18": "Self-loathing. The society feels that it has failed itself, that is detestable or contemptible and in need of reformation by other, more enlightened societies."
-        "19": "Suspicious. People expect that others usually mean to take advantage of them, and are always anticipating treachery from acquaintances."
+        "10": "Harmonious. Open conflict is shunned, as is direct disagreement. Disputes are settled in subtler fashion.",
+        "11": "Hedonistic. The society prizes pleasures of all kinds above considerations of prudence or thrift.",
+        "12": "Honorable. People feel a keen responsibility toward their duties and their personal integrity.",
+        "13": "Individualistic. Members of the society can adopt eccentricities and strange beliefs without censure.",
+        "14": "Pacifistic. The society has a horror of killing, and people do not consider lethal violence an acceptable tool.",
+        "15": "Rational. The society is highly rationalistic and not given to religious or magical thinking.",
+        "16": "Resigned. People lack ambition or hope, and endure their present difficulties with stoic patience.",
+        "17": "Self-confident. The society is convinced that is a model of virtue and excellence, and that other, lesser cultures are in need of being reformed along its lines.",
+        "18": "Self-loathing. The society feels that it has failed itself, that is detestable or contemptible and in need of reformation by other, more enlightened societies.",
+        "19": "Suspicious. People expect that others usually mean to take advantage of them, and are always anticipating treachery from acquaintances.",
         "20": "Warlike. People respect and admire a capacity for physical aggression and lethal violence."
     }
 }
