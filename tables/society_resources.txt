@@ -3,45 +3,45 @@
     "dice": [ "1D8" ],
     "entries": {
         "1": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "One part of the society is convinced of the need for a communist dictatorship of the proletariat.",
+            "constraints": "The society is liviving of the capital of their ancestors.",
+            "changes": "Ostentatious displays of wealth are expected from those who would rise above the common people."
         },
         "2": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "One part of the society is ruthlessly laissez-faire, and is against any vestige of public charity or support.",
+            "constraints": "Recent discovery or development of substantial new supplies of resources have temporarily cooled the situation.",
+            "changes": "Social mores discourage entrepreneurship, as the wealthy are forced to share most of their wealth."
         },
         "3": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The locals anticipate ecological collapse or resource exhaustion in the near future.",
+            "constraints": "The world is rich enough that even the poorest do not die of privation.",
+            "changes": "Marriages and social bonds are all fundamentally economic in nature."
         },
         "4": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Their ancestors consumed all the most avialable resources, leaving only the dregs for their children.",
+            "constraints": "Status rests on how much a person can give to their friends and servants.",
+            "changes": "Society has little use for credits as a form of currency, preferring tokens backed by commodities or real estate."
         },
         "5": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Attaining the next tech level requires a heavy concentration of wealth with one of the competiting merchant factions.",
+            "constraints": "A recent extremist economic policy has collapsed, and left the survivors wary of radical solutions.",
+            "changes": "Criminals or exiles are forbidden from owning property; whatever they have can be taken from them by anyone."
         },
         "6": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Political legitimacy lies with the leader who can obtain the most resources for his clients.",
+            "constraints": "At least one major faction is confident that either God or history will shortly deliver the resources to their control.",
+            "changes": "People can be bought and sold as indentured servants or slaves."
         },
         "7": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "A substantial portion of local resources were lost or ruined by some disaster.",
+            "constraints": "Rigid social mores insist on a level of sharing with other members of society.",
+            "changes": "Property laws are Byzantine and prone to legal chicanery."
         },
         "8": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
-        },
+            "details": "The underclass is constantly railing for greater transfer payments from others.",
+            "constraints": "Ritualized theft is permitted for certain people or classes.",
+            "changes": "The clergy of the world have merged with the bankers and financiers."
+        }
     }
 }
 

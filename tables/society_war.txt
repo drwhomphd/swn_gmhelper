@@ -3,45 +3,45 @@
     "dice": [ "1D8" ],
     "entries": {
         "1": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Horrific violence engulfed almost every significant community on the planet.",
+            "constraints": "The combatants fought each other out subsiding out of war-weariness.",
+            "changes": "The populace is inured to death; human life is cheap to them, even their own."
         },
         "2": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "A slow-burn guerilla struggle went on between ruthless rebels and the central government.",
+            "constraints": "The conflict was so destructive that those involved were essentially exterminated as meaningful groups.
+            "changes": "The defeated group is demoralized and has no faith in their own culture."
         },
         "3": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "A brief, savage war of extermination broke out between two or more groups.",
+            "constraints": "One side decisively conquered the other, crushing it as a military rival.",
+            "changes": "The horrors of war have made the populace highly averse to military action."
         },
         "4": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "A cold war between communities or factions regularly flared up.",
+            "constraints": "One side lost its industrial or technological base, and collapsed.",
+            "changes": "The populace romanticizes life before the war as better and nobler than it was."
         },
         "5": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Highly ritualized combat went on between two or more groups, the fighting contained away from civilians.",
+            "constraints": "One side was betrayed by its leadership, and forced to surrender.",
+            "changes": "Military organizations and formations have become important social groups."
         },
         "6": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "A faction acquired tech or military strength sufficient to goad a war with their rivals.",
+            "constraints": "One side is convinced it was betrayed by its leadership, when in truth it simply had lost.",
+            "changes": "Many locals bear marks from old radiation, bioweapons, or the legacy of war's privation."
         },
         "7": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Warfare became institutionalized in society, with factional combat the normal means of resolving conflicts.",
+            "constraints": "An outside party forced a peace between the combatants.",
+            "changes": "Adults are all expected to have basic military training."
         },
         "8": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
-        },
+            "details": "A brutal deadlock ground on for decades between evently-matched groups.",
+            "constraints": "An outside enemy or threat compelled the foes to ally against it.",
+            "changes": "Weaponry is strictly restricted to members of the military and security forces."
+        }
     }
 }
 

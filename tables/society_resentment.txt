@@ -3,45 +3,45 @@
     "dice": [ "1D8" ],
     "entries": {
         "1": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "An aggrieved group blames another group for a past planetary disaster.",
+            "constraints": "The aggrieved group is dependent upon those they resent for jobs or resources.",
+            "changes": "Members of the rival groups rigorously avoid any social interaction."
         },
         "2": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "An aggrieved group still hates another group for a past war.",
+            "constraints": "The aggrieved group fears the consequences of open conflict, and so maintains public civility.",
+            "changes": "The aggrieved are willing even to harm themselves so long as their rivals are hurt worse."
         },
         "3": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The poor and moderately well-off of a world are animated by bitter envy.",
+            "constraints": "The aggrieved group tries to show up their rivals through their own prosperity rather than acts against their enemies.",
+            "changes": "The aggrieved are willing even to harm themselves so long as their rivals are hurt worse."
         },
         "4": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The wealthy elite of the world are convinced the poor are planning to revolt.",
+            "constraints": "The aggrieved group is trying to rally others to the justice of their cause.",
+            "changes": "The aggrieved will never permit a despised enemy to outdo them."
         },
         "5": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "One group hates another because the latter refused to aid the former in a time of crisis.",
+            "constraints": "The aggrieved group is too weak and lacking in influence to seriously concern the objects of their ire.",
+            "changes": "The aggrieved make memorialization of the wrongs they suffered part of their religion."
         },
         "6": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "One group is convinced the prosperity of another group comes from the theft of resources that rightly belong to them.",
+            "constraints": "The aggrieved group as the will, but not the coherent leadership to act on its resentments.",
+            "changes": "The aggrieved and those they despise have separate professional societies."
         },
         "7": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "One group nurses a bitter grievance over an ancient insult from a rival group.",
+            "constraints": "The aggrieved group uses the resentment simply as an excuse for selfish ambition.",
+            "changes": "The aggrieved have formed an impressive body of memorial art."
         },
         "8": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
-        },
+            "details": "One group despises another, whom they are convinced should rightfully serve them were it not for an old treachery.",
+            "constraints": "The aggrieved group recently tried to strike at its enemies, but failed badly, and now licks its wounds.",
+            "changes": "The aggrieved have lost almost all of what once made them a distince group exept for the shared hate."
+        }
     }
 }
 

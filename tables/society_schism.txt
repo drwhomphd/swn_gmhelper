@@ -3,45 +3,45 @@
     "dice": [ "1D8" ],
     "entries": {
         "1": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The world's dominant religion splinters into two or more mutually-anathematizing faiths.",
+            "constraints": "An outside religious organization is respected by all, and acts as diplomats and negotiators.",
+            "changes": "The locals all wear clothing or insignia showing their religious affiliations."
         },
         "2": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The majority religion develops a sect of zealous and rigorous radicals.",
+            "constraints": "One sect is so much stronger than the other that open warfare is suicidal.",
+            "changes": "Communities are based on shared religion."
         },
         "3": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The majority religion advocates a belief that is demonstrably false and harmful, including more moderate sects to form.",
+            "constraints": "The most violent sects demand such painful sacrifices from adherents that they remain few in number.",
+            "changes": "Different sects dominate different professions."
         },
         "4": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "The majority religion becomes corrupt and venal, provoking reform groups that may be overzealous.",
+            "constraints": "The sects leaders are actually calm-headed, but the common believers are often extremeists.",
+            "changes": "Different sects have assumed control of important resources."
         },
         "5": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "A new prophet rises with a creed in direct opposition to the majority faith.",
+            "constraints": "The competing sects all answer to the same supreme authority.",
+            "changes": "The sects condemn intermarrigae or social contact with their opponents."
         },
         "6": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Alien relics or visitors provoke a synergy between their beliefs and sectarians of the majority faith.",
+            "constraints": "The most violently radical belivers are very isolated and avoid contact with others.",
+            "changes": "Sect affiliation is shown by tattooing, scarification, or other permanent modification."
         },
         "7": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
+            "details": "Hostile religious sects become closely identified with specific ethnicities or communities.",
+            "constraints": "The sects limit membership to certain ethnicities, professions, or communities, and so do not grow very large.",
+            "changes": "Sect membership involves the rigorous taboo of some normal behavior."
         },
         "8": {
-            "details": "",
-            "constraints": "",
-            "changes": ""
-        },
+            "details": "Relics or evidence are uncovered that the world's majority faith is based on a hoax or scheme.",
+            "constraints": "The sects share control over a holy site or valuable resource, and know that fighting would destroy it.",
+            "changes": "Religious beliefs are extremely private, and discussing them in public is punished."
+        }
     }
 }
 
