@@ -9,7 +9,7 @@
         },
         "2": {
             "details": "A slow-burn guerilla struggle went on between ruthless rebels and the central government.",
-            "constraints": "The conflict was so destructive that those involved were essentially exterminated as meaningful groups.
+            "constraints": "The conflict was so destructive that those involved were essentially exterminated as meaningful groups.",
             "changes": "The defeated group is demoralized and has no faith in their own culture."
         },
         "3": {
