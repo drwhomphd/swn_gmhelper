@@ -12,6 +12,7 @@ star_cnt = star_cnt_die.roll() + 20
 print("Generating positions for %d stars..." % (star_cnt,))
 
 for i in range(0, 20):
-    print("Star ID %d located at position (%d, %d)" % (i, star_column_die.roll(), star_row_die.roll()))
+    # Die rolls are -1 as the SWN Sector Map uses 0-index coordinates.
+    print("Star ID %d located at position (%d, %d)" % (i, star_column_die.roll()-1, star_row_die.roll())-1)
 
 print("Please place the final %d stars manually..." % (star_cnt-20))
