@@ -4,7 +4,7 @@
     "entries": {
         "1": "Anarchy! The government collapses. On a 4+ on 1d6, it is replaced by a Tribalism centered around individual settlements or kinship groupings. On 3 or less, zealous revolutionaries are successful in entrenching their own ideals; roll randomly on the government type table.",
         "2": "The government weathers the crisis without change.",
-        "3": "Republican government becomes hopelessly deadlocked, and the bureaucracy evolves into a self-perpetuating Techocratic elite that wields the real power.",
+        "3": "Republican government becomes hopelessly deadlocked, and the bureaucracy evolves into a self-perpetuating Technocratic elite that wields the real power.",
         "4": "Republican corruption or the ambition of the military results in a coup, leading to a Military Dictatorship.",
         "5": "Each representative gathers their own fief of supporters and resources, transforming government into a Feudal confederacy.",
         "6": "Representatives become puppets for corporations or special interest groups, leading to Corporatism."
