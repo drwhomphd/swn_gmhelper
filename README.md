@@ -9,6 +9,9 @@ Note: These tools are based around the original Core Rulebook as I have yet to p
 * A LaTeX Distribution (for LaTeX files)
 * latexmk (for easy LaTeX compilation)
 
+## LaTeX Templates
+
+The best way to leverage the LaTeX templates are to copy the directory and give it the name of the sector you'd like to create. The tex files in the directory can be used to generate the documents required.
 
 ## Source Code License
 
