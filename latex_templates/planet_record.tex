@@ -1,11 +1,15 @@
 \documentclass[12pt,letterpaper,twocolumn]{article}
 
+\usepackage{fancyhdr}
 \usepackage[margin=0.5in]{geometry}
 \usepackage{array}
 \usepackage{multirow}
 \usepackage{tabularx}
 
+\renewcommand{\familydefault}{\sfdefault}
+
 \begin{document}
+
 \begin{tabularx}{\linewidth}{ r | X |}
     \cline{2-2}
     \textsc{Name:} & \$name \\
@@ -85,7 +89,7 @@
 \begin{tabularx}{\linewidth}{| X |}
     \multicolumn{1}{l}{\textsc{Party Activities on this World}} \\
     \hline
-    \$PARTYATIVITIES \\
+    \$PARTYACTIVITIES \\
     \hline
 \end{tabularx}
 \end{document}

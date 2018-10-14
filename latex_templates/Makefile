@@ -29,8 +29,8 @@ all: PlanetRecord.pdf
 # -interaction=nonstopmode keeps the pdflatex backend from stopping at a
 # missing file reference and interactively asking you for an alternative.
 
-PlanetRecord.pdf: world_fact_sheet.tex
-	latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" -use-make world_fact_sheet.tex
+PlanetRecord.pdf: planet_record.tex
+	latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" -use-make planet_record.tex
 
 clean:
 	latexmk -CA
