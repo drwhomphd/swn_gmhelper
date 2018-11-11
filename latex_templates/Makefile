@@ -5,7 +5,7 @@
 
 # The first rule in a Makefile is the one executed by default ("make"). It
 # should always be the "all" rule, so that "make" and "make all" are identical.
-all: PlanetRecord.pdf
+all: PlanetRecord.pdf PlanetDirectory.pdf
 
 # CUSTOM BUILD RULES
 
@@ -31,6 +31,9 @@ all: PlanetRecord.pdf
 
 PlanetRecord.pdf: planet_record.tex
 	latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" -use-make planet_record.tex
+
+PlanetDirectory.pdf: planet_directory.tex
+	latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" -use-make planet_directory.tex
 
 clean:
 	latexmk -CA
