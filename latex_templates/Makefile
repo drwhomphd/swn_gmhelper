@@ -1,11 +1,11 @@
 # You want latexmk to *always* run, because make does not have all the info.
 # Also, include non-file targets in .PHONY so they are run regardless of any
 # file of the given name existing.
-.PHONY: PlanetRecord.pdf all clean
+.PHONY: PlanetRecord.pdf PlanetDirectory.pdf StarshipRecord.pdf all clean
 
 # The first rule in a Makefile is the one executed by default ("make"). It
 # should always be the "all" rule, so that "make" and "make all" are identical.
-all: PlanetRecord.pdf PlanetDirectory.pdf
+all: PlanetRecord.pdf PlanetDirectory.pdf StarshipRecord.pdf
 
 # CUSTOM BUILD RULES
 
@@ -35,5 +35,7 @@ PlanetRecord.pdf: planet_record.tex
 PlanetDirectory.pdf: planet_directory.tex
 	latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" -use-make planet_directory.tex
 
+StarshipRecord.pdf: starship_record.tex
+	latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" -use-make starship_record.tex
 clean:
 	latexmk -CA

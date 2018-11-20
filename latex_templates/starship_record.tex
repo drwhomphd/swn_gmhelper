@@ -1,0 +1,74 @@
+\documentclass[10pt,letterpaper,twocolumn]{article}
+
+\usepackage{fancyhdr}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{tabularx}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\begin{document}
+\begin{table}[h]
+\begin{tabularx}{\linewidth}{ r | X |}
+    \cline{2-2}
+    \textsc{Ship Name:} & NAME \\
+    \cline{2-2}
+    \multicolumn{2}{c}{} \\
+    \cline{2-2}
+    \textsc{Cost} & ATMOSPHERE \\
+    \cline{2-2}
+    \textsc{Hull Type} & TEMP \\
+    \cline{2-2}
+    \textsc{Speed} & BIOSPHERE \\
+    \cline{2-2}
+    \textsc{Armor Class} & POP \\
+    \cline{2-2}
+    \textsc{Armor} & TL \\
+    \cline{2-2}
+    \textsc{Crew Min/Max} & MIN / MAX \\
+    \cline{2-2}
+    \textsc{Max Hit Points} &  HPs \\
+    \cline{2-2}
+    \textsc{Free Power} & TL \\
+    \cline{2-2}
+    \textsc{Free Mass} & TL \\
+    \cline{2-2}
+    \textsc{Free Hardpoints} & TL \\
+    \cline{2-2}
+    \textsc{Cargo Tonnage} & TL \\
+    \cline{2-2}
+    \textsc{Current HP} & TL \\
+    \cline{2-2}
+    \textsc{Current Crew} & TL \\
+    \cline{2-2}
+    \textsc{Operating Cost} & TL \\
+    \cline{2-2}
+    \textsc{Maintenance Cost} & TL \\
+    \cline{2-2}
+    \textsc{Last Maintenance} & TL \\
+    \cline{2-2}
+    \textsc{Home Port} & TL \\
+    \cline{2-2}
+\end{tabularx}
+\end{table}
+
+\begin{table*}[b]
+    \begin{tabularx}{\linewidth}{| c | c | c | c | X |}
+        \hline
+        Weapon & AB & Damage & Ammo & Special Effects \\
+        \hline
+    \end{tabularx}
+\end{table*}
+
+\begin{table}[t]
+    \begin{tabularx}{\linewidth}{| X |}
+        \multicolumn{1}{l}{\textsc{Cargo and Notes}} \\
+        \hline
+        NOTES \ \newline \newline \newline \newline \newline \newline \newline \newline \newline  \newline \newline \newline \newline \\
+        \hline
+    \end{tabularx}
+\end{table}
+
+
+\end{document}
