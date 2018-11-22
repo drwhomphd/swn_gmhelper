@@ -1,0 +1,510 @@
+{
+    "stages": 1,
+    "dice": [ "1D100" ],
+    "entries": {
+        "1": {
+            "male":"Aamir",
+            "female":"Aisha",
+            "surname":"Abdel"
+        },
+        "2": {
+            "male":"Aamir",
+            "female":"Aisha",
+            "surname":"Abdel"
+        },
+        "3": {
+            "male":"Aamir",
+            "female":"Aisha",
+            "surname":"Abdel"
+        },
+        "4": {
+            "male":"Aamir",
+            "female":"Aisha",
+            "surname":"Abdel"
+        },
+        "5": {
+            "male":"Ayub",
+            "female":"Alimah",
+            "surname":"Awad"
+        },
+        "6": {
+            "male":"Ayub",
+            "female":"Alimah",
+            "surname":"Awad"
+        },
+        "7": {
+            "male":"Ayub",
+            "female":"Alimah",
+            "surname":"Awad"
+        },
+        "8": {
+            "male":"Ayub",
+            "female":"Alimah",
+            "surname":"Awad"
+        },
+        "9": {
+            "male":"Binyamin",
+            "female":"Badia",
+            "surname":"Dahhak"
+        },
+        "10": {
+            "male":"Binyamin",
+            "female":"Badia",
+            "surname":"Dahhak"
+        },
+        "11": {
+            "male":"Binyamin",
+            "female":"Badia",
+            "surname":"Dahhak"
+        },
+        "12": {
+            "male":"Binyamin",
+            "female":"Badia",
+            "surname":"Dahhak"
+        },
+        "13": {
+            "male":"Efraim",
+            "female":"Bisharah",
+            "surname":"Essa"
+        },
+        "14": {
+            "male":"Efraim",
+            "female":"Bisharah",
+            "surname":"Essa"
+        },
+        "15": {
+            "male":"Efraim",
+            "female":"Bisharah",
+            "surname":"Essa"
+        },
+        "16": {
+            "male":"Efraim",
+            "female":"Bisharah",
+            "surname":"Essa"
+        },
+        "17": {
+            "male":"Ibrahim",
+            "female":"Chanda",
+            "surname":"Hanna"
+        },
+        "18": {
+            "male":"Ibrahim",
+            "female":"Chanda",
+            "surname":"Hanna"
+        },
+        "19": {
+            "male":"Ibrahim",
+            "female":"Chanda",
+            "surname":"Hanna"
+        },
+        "20": {
+            "male":"Ibrahim",
+            "female":"Chanda",
+            "surname":"Hanna"
+        },
+        "21": {
+            "male":"Ilyas",
+            "female":"Daliya",
+            "surname":"Harbi"
+        },
+        "22": {
+            "male":"Ilyas",
+            "female":"Daliya",
+            "surname":"Harbi"
+        },
+        "23": {
+            "male":"Ilyas",
+            "female":"Daliya",
+            "surname":"Harbi"
+        },
+        "24": {
+            "male":"Ilyas",
+            "female":"Daliya",
+            "surname":"Harbi"
+        },
+        "25": {
+            "male":"Ismail",
+            "female":"Fatimah",
+            "surname":"Hassan"
+        },
+        "26": {
+            "male":"Ismail",
+            "female":"Fatimah",
+            "surname":"Hassan"
+        },
+        "27": {
+            "male":"Ismail",
+            "female":"Fatimah",
+            "surname":"Hassan"
+        },
+        "28": {
+            "male":"Ismail",
+            "female":"Fatimah",
+            "surname":"Hassan"
+        },
+        "29": {
+            "male":"Jibril",
+            "female":"Ghania",
+            "surname":"Isa"
+        },
+        "30": {
+            "male":"Jibril",
+            "female":"Ghania",
+            "surname":"Isa"
+        },
+        "31": {
+            "male":"Jibril",
+            "female":"Ghania",
+            "surname":"Isa"
+        },
+        "32": {
+            "male":"Jibril",
+            "female":"Ghania",
+            "surname":"Isa"
+        },
+        "33": {
+            "male":"Jumanah",
+            "female":"Halah",
+            "surname":"Kasim"
+        },
+        "34": {
+            "male":"Jumanah",
+            "female":"Halah",
+            "surname":"Kasim"
+        },
+        "35": {
+            "male":"Jumanah",
+            "female":"Halah",
+            "surname":"Kasim"
+        },
+        "36": {
+            "male":"Jumanah",
+            "female":"Halah",
+            "surname":"Kasim"
+        },
+        "37": {
+            "male":"Kazi",
+            "female":"Kaylah",
+            "surname":"Katib"
+        },
+        "38": {
+            "male":"Kazi",
+            "female":"Kaylah",
+            "surname":"Katib"
+        },
+        "39": {
+            "male":"Kazi",
+            "female":"Kaylah",
+            "surname":"Katib"
+        },
+        "40": {
+            "male":"Kazi",
+            "female":"Kaylah",
+            "surname":"Katib"
+        },
+        "41": {
+            "male":"Lut",
+            "female":"Khayrah",
+            "surname":"Khalil"
+        },
+        "42": {
+            "male":"Lut",
+            "female":"Khayrah",
+            "surname":"Khalil"
+        },
+        "43": {
+            "male":"Lut",
+            "female":"Khayrah",
+            "surname":"Khalil"
+        },
+        "44": {
+            "male":"Lut",
+            "female":"Khayrah",
+            "surname":"Khalil"
+        },
+        "45": {
+            "male":"Matta",
+            "female":"Layla",
+            "surname":"Malik"
+        },
+        "46": {
+            "male":"Matta",
+            "female":"Layla",
+            "surname":"Malik"
+        },
+        "47": {
+            "male":"Matta",
+            "female":"Layla",
+            "surname":"Malik"
+        },
+        "48": {
+            "male":"Matta",
+            "female":"Layla",
+            "surname":"Malik"
+        },
+        "49": {
+            "male":"Mohammed",
+            "female":"Mina",
+            "surname":"Mansoor"
+        },
+        "50": {
+            "male":"Mohammed",
+            "female":"Mina",
+            "surname":"Mansoor"
+        },
+        "51": {
+            "male":"Mohammed",
+            "female":"Mina",
+            "surname":"Mansoor"
+        },
+        "52": {
+            "male":"Mohammed",
+            "female":"Mina",
+            "surname":"Mansoor"
+        },
+        "53": {
+            "male":"Mubarak",
+            "female":"Munisa",
+            "surname":"Mazin"
+        },
+        "54": {
+            "male":"Mubarak",
+            "female":"Munisa",
+            "surname":"Mazin"
+        },
+        "55": {
+            "male":"Mubarak",
+            "female":"Munisa",
+            "surname":"Mazin"
+        },
+        "56": {
+            "male":"Mubarak",
+            "female":"Munisa",
+            "surname":"Mazin"
+        },
+        "57": {
+            "male":"Mustafa",
+            "female":"Mysha",
+            "surname":"Musa"
+        },
+        "58": {
+            "male":"Mustafa",
+            "female":"Mysha",
+            "surname":"Musa"
+        },
+        "59": {
+            "male":"Mustafa",
+            "female":"Mysha",
+            "surname":"Musa"
+        },
+        "60": {
+            "male":"Mustafa",
+            "female":"Mysha",
+            "surname":"Musa"
+        },
+        "61": {
+            "male":"Nazir",
+            "female":"Naimah",
+            "surname":"Najeeb"
+        },
+        "62": {
+            "male":"Nazir",
+            "female":"Naimah",
+            "surname":"Najeeb"
+        },
+        "63": {
+            "male":"Nazir",
+            "female":"Naimah",
+            "surname":"Najeeb"
+        },
+        "64": {
+            "male":"Nazir",
+            "female":"Naimah",
+            "surname":"Najeeb"
+        },
+        "65": {
+            "male":"Rahim",
+            "female":"Nissa",
+            "surname":"Namari"
+        },
+        "66": {
+            "male":"Rahim",
+            "female":"Nissa",
+            "surname":"Namari"
+        },
+        "67": {
+            "male":"Rahim",
+            "female":"Nissa",
+            "surname":"Namari"
+        },
+        "68": {
+            "male":"Rahim",
+            "female":"Nissa",
+            "surname":"Namari"
+        },
+        "69": {
+            "male":"Reza",
+            "female":"Nura",
+            "surname":"Naser"
+        },
+        "70": {
+            "male":"Reza",
+            "female":"Nura",
+            "surname":"Naser"
+        },
+        "71": {
+            "male":"Reza",
+            "female":"Nura",
+            "surname":"Naser"
+        },
+        "72": {
+            "male":"Reza",
+            "female":"Nura",
+            "surname":"Naser"
+        },
+        "73": {
+            "male":"Sharif",
+            "female":"Parveen",
+            "surname":"Rahman"
+        },
+        "74": {
+            "male":"Sharif",
+            "female":"Parveen",
+            "surname":"Rahman"
+        },
+        "75": {
+            "male":"Sharif",
+            "female":"Parveen",
+            "surname":"Rahman"
+        },
+        "76": {
+            "male":"Sharif",
+            "female":"Parveen",
+            "surname":"Rahman"
+        },
+        "77": {
+            "male":"Taimur",
+            "female":"Rana",
+            "surname":"Rasheed"
+        },
+        "78": {
+            "male":"Taimur",
+            "female":"Rana",
+            "surname":"Rasheed"
+        },
+        "79": {
+            "male":"Taimur",
+            "female":"Rana",
+            "surname":"Rasheed"
+        },
+        "80": {
+            "male":"Taimur",
+            "female":"Rana",
+            "surname":"Rasheed"
+        },
+        "81": {
+            "male":"Usman",
+            "female":"Shalha",
+            "surname":"Saleh"
+        },
+        "82": {
+            "male":"Usman",
+            "female":"Shalha",
+            "surname":"Saleh"
+        },
+        "83": {
+            "male":"Usman",
+            "female":"Shalha",
+            "surname":"Saleh"
+        },
+        "84": {
+            "male":"Usman",
+            "female":"Shalha",
+            "surname":"Saleh"
+        },
+        "85": {
+            "male":"Yakub",
+            "female":"Suhira",
+            "surname":"Salim"
+        },
+        "86": {
+            "male":"Yakub",
+            "female":"Suhira",
+            "surname":"Salim"
+        },
+        "87": {
+            "male":"Yakub",
+            "female":"Suhira",
+            "surname":"Salim"
+        },
+        "88": {
+            "male":"Yakub",
+            "female":"Suhira",
+            "surname":"Salim"
+        },
+        "89": {
+            "male":"Yusuf",
+            "female":"Tahirah",
+            "surname":"Shadi"
+        },
+        "90": {
+            "male":"Yusuf",
+            "female":"Tahirah",
+            "surname":"Shadi"
+        },
+        "91": {
+            "male":"Yusuf",
+            "female":"Tahirah",
+            "surname":"Shadi"
+        },
+        "92": {
+            "male":"Yusuf",
+            "female":"Tahirah",
+            "surname":"Shadi"
+        },
+        "93": {
+            "male":"zakariya",
+            "female":"yasmin",
+            "surname":"sulaiman"
+        },
+        "94": {
+            "male":"zakariya",
+            "female":"yasmin",
+            "surname":"sulaiman"
+        },
+        "95": {
+            "male":"zakariya",
+            "female":"yasmin",
+            "surname":"sulaiman"
+        },
+        "96": {
+            "male":"zakariya",
+            "female":"yasmin",
+            "surname":"sulaiman"
+        },
+        "97": {
+            "male":"Zubair",
+            "female":"Zulehka",
+            "surname":"Tabari"
+        },
+        "98": {
+            "male":"Zubair",
+            "female":"Zulehka",
+            "surname":"Tabari"
+        },
+        "99": {
+            "male":"Zubair",
+            "female":"Zulehka",
+            "surname":"Tabari"
+        },
+        "100": {
+            "male":"Zubair",
+            "female":"Zulehka",
+            "surname":"Tabari"
+        }
+    }
+
+}
+
+
+
