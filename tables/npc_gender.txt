@@ -1,0 +1,11 @@
+{
+    "stages":1,
+    "dice": [ "1D4" ],
+    "entries": {
+        "1": "Male",
+        "2": "Male",
+        "3": "Female",
+        "4": "Female",
+    }
+}
+

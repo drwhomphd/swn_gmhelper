@@ -1,0 +1,20 @@
+{
+    "stages":1,
+    "dice": [ "1D12" ],
+    "entries": {
+        "1": "Greed, because nothing else they can do pays better",
+        "2": "Idealistic about the job",
+        "3": "Sense of social duty",
+        "4": "Force of habit takes them through the day",
+        "5": "Seeks to please another",
+        "6": "Feels inadequate as anything else",
+        "7": "Family tradition",
+        "8": "Religious obligation or vow",
+        "9": "Nothing better to do, and they need the money",
+        "10": "They're quitting at the first good opportunity",
+        "11": "It's a stepping stone to better things",
+        "12": "Spite against an enemy discomfited by the work"
+    }
+}
+
+

@@ -1,0 +1,18 @@
+{
+    "stages":1,
+    "dice": [ "1D10" ],
+    "entries": {
+        "1": "Grudge against local authorities",
+        "2": "Has a secret kept from their family",
+        "3": "Chronic illness",
+        "4": "Enmity of a local psychic",
+        "5": "Has enemies at work",
+        "6": "Owes loan sharks",
+        "7": "Threatened with loss of spouse, sibling, or child",
+        "8": "Close relative in trouble with the law",
+        "9": "Druge or behavioral addict",
+        "10": "Blackmailed by enemy"
+    }
+}
+
+

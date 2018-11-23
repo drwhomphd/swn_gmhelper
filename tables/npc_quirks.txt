@@ -1,0 +1,28 @@
+{
+    "stages":1,
+    "dice": [ "1D20" ],
+    "entries": {
+        "1": "Bald",
+        "2": "Terrible taste in clothing",
+        "3": "Very thin",
+        "4": "Powerful build",
+        "5": "Bad eyesight, wears spectales",
+        "6": "Carries work tools constantly",
+        "7": "Long hair",
+        "8": "(Very) Beared, if male. Ankle-length hair if female",
+        "9": "Scars all over hands",
+        "10": "Missing digits or an ear",
+        "11": "Smells like their work",
+        "12": "Repeats himself constantly",
+        "13": "Talks about tabloid articles",
+        "14": "Booming voice",
+        "15": "Vocal dislike of offworlders",
+        "16": "Always snuffling",
+        "17": "Missing teeth",
+        "18": "Fastidously near",
+        "19": "Wears religious emblems",
+        "20": "Speaks as little as possible"
+    }
+}
+
+

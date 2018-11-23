@@ -1,0 +1,15 @@
+{
+    "stages":1,
+    "dice": [ "1D8" ],
+    "entries": {
+        "1": "Very Short",
+        "2": "Short",
+        "3": "Short",
+        "4": "Average height",
+        "5": "Average height",
+        "6": "Tall",
+        "7": "Tall",
+        "8": "Very Tall"
+    }
+}
+
