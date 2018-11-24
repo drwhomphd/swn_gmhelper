@@ -5,38 +5,38 @@ import gmutils
 
 # Mapping Government types to table files
 gov_table_evolution_lookup = {
-        "Autocracy": "tables/society_autocracy.txt",
-        "Corporatism": "tables/society_corporatism.txt",
-        "Democracy": "tables/society_democracy.txt",
-        "Feudalism": "tables/society_feudalism.txt",
-        "Hydraulic Despotism": "tables/society_hydraulicdespotism.txt",
-        "Military Dictatorship": "tables/society_mildictatory.txt",
-        "Monarchy": "tables/society_monarchy.txt",
-        "Oligarchy": "tables/society_oligarchy.txt",
-        "Republic": "tables/society_republic.txt",
-        "Technocracy": "tables/society_technocracy.txt",
-        "Theocracy": "tables/society_theocray.txt",
-        "Tribalism": "tables/society_tribalism.txt"
+        "Autocracy": "roll_tables/society_autocracy.txt",
+        "Corporatism": "roll_tables/society_corporatism.txt",
+        "Democracy": "roll_tables/society_democracy.txt",
+        "Feudalism": "roll_tables/society_feudalism.txt",
+        "Hydraulic Despotism": "roll_tables/society_hydraulicdespotism.txt",
+        "Military Dictatorship": "roll_tables/society_mildictatory.txt",
+        "Monarchy": "roll_tables/society_monarchy.txt",
+        "Oligarchy": "roll_tables/society_oligarchy.txt",
+        "Republic": "roll_tables/society_republic.txt",
+        "Technocracy": "roll_tables/society_technocracy.txt",
+        "Theocracy": "roll_tables/society_theocray.txt",
+        "Tribalism": "roll_tables/society_tribalism.txt"
 }
 
 gov_table_conflicts_lookup = {
-        "Bigotry": "tables/society_bigotry.txt",
-        "Freedom": "tables/society_freedom.txt",
-        "Inequality": "tables/society_inequality.txt",
-        "Land": "tables/society_land.txt",
-        "Nationalism": "tables/society_nationalism.txt",
-        "Privation": "tables/society_privation.txt",
-        "Resentment": "tables/society_resentment.txt",
-        "Resources": "tables/society_resources.txt",
-        "Schism": "tables/society_schism.txt",
-        "War": "tables/society_war.txt"
+        "Bigotry": "roll_tables/society_bigotry.txt",
+        "Freedom": "roll_tables/society_freedom.txt",
+        "Inequality": "roll_tables/society_inequality.txt",
+        "Land": "roll_tables/society_land.txt",
+        "Nationalism": "roll_tables/society_nationalism.txt",
+        "Privation": "roll_tables/society_privation.txt",
+        "Resentment": "roll_tables/society_resentment.txt",
+        "Resources": "roll_tables/society_resources.txt",
+        "Schism": "roll_tables/society_schism.txt",
+        "War": "roll_tables/society_war.txt"
 }
 
 
 def main():
     # Determine the reason the world was colonized.
     print("Initial Colonization")
-    colonizationgen = gmutils.table("tables/society_colonization.txt", "Colonization")
+    colonizationgen = gmutils.roll_table("roll_tables/society_colonization.txt", "Colonization")
     print(colonizationgen.return_result())
     print("")
 
@@ -45,14 +45,14 @@ def main():
 
     # Choose initial Government
     print("Initial Government Type")
-    govgen = gmutils.table("tables/society_govtype.txt", "Government Type")
+    govgen = gmutils.roll_table("roll_tables/society_govtype.txt", "Government Type")
     gov_type = govgen.return_result()
     print(gov_type)
     print("")
 
     # Choose societal traits
     print("Initial Societal Traits")
-    traitgen = gmutils.table("tables/society_traits.txt", "Societal Traits")
+    traitgen = gmutils.roll_table("roll_tables/society_traits.txt", "Societal Traits")
     # 2-3 Rolls
     for i in range(0, 3):
         print(traitgen.return_result())
@@ -60,7 +60,7 @@ def main():
 
     # Choose main pre-scream conflict
     print("Pre-Scream Conflict")
-    conflictgen = gmutils.table("tables/society_conflicts.txt", "Conflicts")
+    conflictgen = gmutils.roll_table("roll_tables/society_conflicts.txt", "Conflicts")
     prescreamconflict = conflictgen.return_result()
     print(prescreamconflict)
 
@@ -68,7 +68,7 @@ def main():
 
     # Evolve the government based on pre-screm initial conflict
     print("Evolved government")
-    evolvegovgen = gmutils.table(gov_table_evolution_lookup[gov_type], "Government Evolution")
+    evolvegovgen = gmutils.roll_table(gov_table_evolution_lookup[gov_type], "Government Evolution")
     evolvegovtype = evolvegovgen.return_result()
     print(evolvegovtype)
 
@@ -87,7 +87,7 @@ def main():
 
 def conflict_details_gen(conflictresult):
     # Then choose source, constraints, and changes based on chosen conflict
-    conflictdetailsgen = gmutils.table(gov_table_conflicts_lookup[conflictresult], "Conflict Details")
+    conflictdetailsgen = gmutils.roll_table(gov_table_conflicts_lookup[conflictresult], "Conflict Details")
     changes = conflictdetailsgen.return_result()['changes']
     details = conflictdetailsgen.return_result()['details']
     constraints = conflictdetailsgen.return_result()['constraints']

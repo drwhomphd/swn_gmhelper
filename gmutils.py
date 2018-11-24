@@ -17,7 +17,7 @@ class dice:
         return result
     #End Roll
 
-class table:
+class roll_table:
     """ Class for loading table descriptors. """
     def __init__(self, filename, table_name):
         self.filename = filename
