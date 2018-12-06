@@ -1,0 +1,510 @@
+{
+    "stages": 1,
+    "dice": [ "1D100" ],
+    "entries": {
+        "1": {
+            "male":"Adam",
+            "female":"Abigail",
+            "surname":"Barker"
+        },
+        "2": {
+            "male":"Adam",
+            "female":"Abigail",
+            "surname":"Barker"
+        },
+        "3": {
+            "male":"Adam",
+            "female":"Abigail",
+            "surname":"Barker"
+        },
+        "4": {
+            "male":"Adam",
+            "female":"Abigail",
+            "surname":"Barker"
+        },
+        "5": {
+            "male":"Albert",
+            "female":"Anne",
+            "surname":"Brown"
+        },
+        "6": {
+            "male":"Albert",
+            "female":"Anne",
+            "surname":"Brown"
+        },
+        "7": {
+            "male":"Albert",
+            "female":"Anne",
+            "surname":"Brown"
+        },
+        "8": {
+            "male":"Albert",
+            "female":"Anne",
+            "surname":"Brown"
+        },
+        "9": {
+            "male":"Alfred",
+            "female":"Beatric",
+            "surname":"Butler"
+        },
+        "10": {
+            "male":"Alfred",
+            "female":"Beatric",
+            "surname":"Butler"
+        },
+        "11": {
+            "male":"Alfred",
+            "female":"Beatric",
+            "surname":"Butler"
+        },
+        "12": {
+            "male":"Alfred",
+            "female":"Beatric",
+            "surname":"Butler"
+        },
+        "13": {
+            "male":"Allan",
+            "female":"Blanche",
+            "surname":"Carter"
+        },
+        "14": {
+            "male":"Allan",
+            "female":"Blanche",
+            "surname":"Carter"
+        },
+        "15": {
+            "male":"Allan",
+            "female":"Blanche",
+            "surname":"Carter"
+        },
+        "16": {
+            "male":"Allan",
+            "female":"Blanche",
+            "surname":"Carter"
+        },
+        "17": {
+            "male":"Archibald",
+            "female":"Catherin",
+            "surname":"Champan"
+        },
+        "18": {
+            "male":"Archibald",
+            "female":"Catherin",
+            "surname":"Champan"
+        },
+        "19": {
+            "male":"Archibald",
+            "female":"Catherin",
+            "surname":"Champan"
+        },
+        "20": {
+            "male":"Archibald",
+            "female":"Catherin",
+            "surname":"Champan"
+        },
+        "21": {
+            "male":"Arthur",
+            "female":"Charlotte",
+            "surname":"Collins"
+        },
+        "22": {
+            "male":"Arthur",
+            "female":"Charlotte",
+            "surname":"Collins"
+        },
+        "23": {
+            "male":"Arthur",
+            "female":"Charlotte",
+            "surname":"Collins"
+        },
+        "24": {
+            "male":"Arthur",
+            "female":"Charlotte",
+            "surname":"Collins"
+        },
+        "25": {
+            "male":"Basil",
+            "female":"Claire",
+            "surname":"Cook"
+        },
+        "26": {
+            "male":"Basil",
+            "female":"Claire",
+            "surname":"Cook"
+        },
+        "27": {
+            "male":"Basil",
+            "female":"Claire",
+            "surname":"Cook"
+        },
+        "28": {
+            "male":"Basil",
+            "female":"Claire",
+            "surname":"Cook"
+        },
+        "29": {
+            "male":"Charles",
+            "female":"Eleanor",
+            "surname":"Davies"
+        },
+        "30": {
+            "male":"Charles",
+            "female":"Eleanor",
+            "surname":"Davies"
+        },
+        "31": {
+            "male":"Charles",
+            "female":"Eleanor",
+            "surname":"Davies"
+        },
+        "32": {
+            "male":"Charles",
+            "female":"Eleanor",
+            "surname":"Davies"
+        },
+        "33": {
+            "male":"Colin",
+            "female":"Elizabeth",
+            "surname":"Gray"
+        },
+        "34": {
+            "male":"Colin",
+            "female":"Elizabeth",
+            "surname":"Gray"
+        },
+        "35": {
+            "male":"Colin",
+            "female":"Elizabeth",
+            "surname":"Gray"
+        },
+        "36": {
+            "male":"Colin",
+            "female":"Elizabeth",
+            "surname":"Gray"
+        },
+        "37": {
+            "male":"Donald",
+            "female":"Emily",
+            "surname":"Green"
+        },
+        "38": {
+            "male":"Donald",
+            "female":"Emily",
+            "surname":"Green"
+        },
+        "39": {
+            "male":"Donald",
+            "female":"Emily",
+            "surname":"Green"
+        },
+        "40": {
+            "male":"Donald",
+            "female":"Emily",
+            "surname":"Green"
+        },
+        "41": {
+            "male":"Douglas",
+            "female":"Emma",
+            "surname":"Harris"
+        },
+        "42": {
+            "male":"Douglas",
+            "female":"Emma",
+            "surname":"Harris"
+        },
+        "43": {
+            "male":"Douglas",
+            "female":"Emma",
+            "surname":"Harris"
+        },
+        "44": {
+            "male":"Douglas",
+            "female":"Emma",
+            "surname":"Harris"
+        },
+        "45": {
+            "male":"Edgar",
+            "female":"Georgia",
+            "surname":"Jackson"
+        },
+        "46": {
+            "male":"Edgar",
+            "female":"Georgia",
+            "surname":"Jackson"
+        },
+        "47": {
+            "male":"Edgar",
+            "female":"Georgia",
+            "surname":"Jackson"
+        },
+        "48": {
+            "male":"Edgar",
+            "female":"Georgia",
+            "surname":"Jackson"
+        },
+        "49": {
+            "male":"Edmund",
+            "female":"Harriet",
+            "surname":"Jones"
+        },
+        "50": {
+            "male":"Edmund",
+            "female":"Harriet",
+            "surname":"Jones"
+        },
+        "51": {
+            "male":"Edmund",
+            "female":"Harriet",
+            "surname":"Jones"
+        },
+        "52": {
+            "male":"Edmund",
+            "female":"Harriet",
+            "surname":"Jones"
+        },
+        "53": {
+            "male":"Edward",
+            "female":"Joan",
+            "surname":"Lloyd"
+        },
+        "54": {
+            "male":"Edward",
+            "female":"Joan",
+            "surname":"Lloyd"
+        },
+        "55": {
+            "male":"Edward",
+            "female":"Joan",
+            "surname":"Lloyd"
+        },
+        "56": {
+            "male":"Edward",
+            "female":"Joan",
+            "surname":"Lloyd"
+        },
+        "57": {
+            "male":"George",
+            "female":"Judy",
+            "surname":"Miller"
+        },
+        "58": {
+            "male":"George",
+            "female":"Judy",
+            "surname":"Miller"
+        },
+        "59": {
+            "male":"George",
+            "female":"Judy",
+            "surname":"Miller"
+        },
+        "60": {
+            "male":"George",
+            "female":"Judy",
+            "surname":"Miller"
+        },
+        "61": {
+            "male":"Harold",
+            "female":"Julia",
+            "surname":"Roberts"
+        },
+        "62": {
+            "male":"Harold",
+            "female":"Julia",
+            "surname":"Roberts"
+        },
+        "63": {
+            "male":"Harold",
+            "female":"Julia",
+            "surname":"Roberts"
+        },
+        "64": {
+            "male":"Harold",
+            "female":"Julia",
+            "surname":"Roberts"
+        },
+        "65": {
+            "male":"Henry",
+            "female":"Lucy",
+            "surname":"Smith"
+        },
+        "66": {
+            "male":"Henry",
+            "female":"Lucy",
+            "surname":"Smith"
+        },
+        "67": {
+            "male":"Henry",
+            "female":"Lucy",
+            "surname":"Smith"
+        },
+        "68": {
+            "male":"Henry",
+            "female":"Lucy",
+            "surname":"Smith"
+        },
+        "69": {
+            "male":"Ian",
+            "female":"Lydia",
+            "surname":"Taylor"
+        },
+        "70": {
+            "male":"Ian",
+            "female":"Lydia",
+            "surname":"Taylor"
+        },
+        "71": {
+            "male":"Ian",
+            "female":"Lydia",
+            "surname":"Taylor"
+        },
+        "72": {
+            "male":"Ian",
+            "female":"Lydia",
+            "surname":"Taylor"
+        },
+        "73": {
+            "male":"James",
+            "female":"Margaret",
+            "surname":"Thomas"
+        },
+        "74": {
+            "male":"James",
+            "female":"Margaret",
+            "surname":"Thomas"
+        },
+        "75": {
+            "male":"James",
+            "female":"Margaret",
+            "surname":"Thomas"
+        },
+        "76": {
+            "male":"James",
+            "female":"Margaret",
+            "surname":"Thomas"
+        },
+        "77": {
+            "male":"John",
+            "female":"Mary",
+            "surname":"Turner
+        },
+        "78": {
+            "male":"John",
+            "female":"Mary",
+            "surname":"Turner
+        },
+        "79": {
+            "male":"John",
+            "female":"Mary",
+            "surname":"Turner
+        },
+        "80": {
+            "male":"John",
+            "female":"Mary",
+            "surname":"Turner
+        },
+        "81": {
+            "male":"Lewis",
+            "female":"Molly",
+            "surname":"Watson"
+        },
+        "82": {
+            "male":"Lewis",
+            "female":"Molly",
+            "surname":"Watson"
+        },
+        "83": {
+            "male":"Lewis",
+            "female":"Molly",
+            "surname":"Watson"
+        },
+        "84": {
+            "male":"Lewis",
+            "female":"Molly",
+            "surname":"Watson"
+        },
+        "85": {
+            "male":"Oliver",
+            "female":"Nora",
+            "surname":"White"
+        },
+        "86": {
+            "male":"Oliver",
+            "female":"Nora",
+            "surname":"White"
+        },
+        "87": {
+            "male":"Oliver",
+            "female":"Nora",
+            "surname":"White"
+        },
+        "88": {
+            "male":"Oliver",
+            "female":"Nora",
+            "surname":"White"
+        },
+        "89": {
+            "male":"Philip",
+            "female":"Rosie",
+            "surname":"Williams"
+        },
+        "90": {
+            "male":"Philip",
+            "female":"Rosie",
+            "surname":"Williams"
+        },
+        "91": {
+            "male":"Philip",
+            "female":"Rosie",
+            "surname":"Williams"
+        },
+        "92": {
+            "male":"Philip",
+            "female":"Rosie",
+            "surname":"Williams"
+        },
+        "93": {
+            "male":"Richard",
+            "female":"Sarah",
+            "surname":"Wood"
+        },
+        "94": {
+            "male":"Richard",
+            "female":"Sarah",
+            "surname":"Wood"
+        },
+        "95": {
+            "male":"Richard",
+            "female":"Sarah",
+            "surname":"Wood"
+        },
+        "96": {
+            "male":"Richard",
+            "female":"Sarah",
+            "surname":"Wood"
+        },
+        "97": {
+            "male":"William",
+            "female":"Victoria",
+            "surname":"Young"
+        }
+        "98": {
+            "male":"William",
+            "female":"Victoria",
+            "surname":"Young"
+        }
+        "99": {
+            "male":"William",
+            "female":"Victoria",
+            "surname":"Young"
+        }
+        "100": {
+            "male":"William",
+            "female":"Victoria",
+            "surname":"Young"
+        }
+    }
+
+}
+
+
+
