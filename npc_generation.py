@@ -31,7 +31,7 @@ parser.add_argument('-l', '--level',
         required=True)
 parser.add_argument('-n', '--nationality',
         help="Nationality of NPC. Currently only arabic names support.",
-        choices=["arabic"],
+        choices=["arabic","english"],
         required=True)
 
 args = parser.parse_args()
