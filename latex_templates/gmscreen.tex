@@ -1,0 +1,180 @@
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage{fancyhdr}
+\usepackage[margin=0.25in]{geometry}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{tabularx}
+\usepackage{multicol}
+\usepackage{makecell} % Fedora: texlive-makecell
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\begin{document}
+\begin{multicols}{3}
+    \hspace{-1cm} % There's a mysterious 1cm indent prior to the table
+    \begin{tabularx}{\columnwidth}{ | c | X | }
+        \hline
+        \multicolumn{2}{|c|}{\textbf{Saving Throws}} \\
+        \hline
+        \textsc{Type} & \textsc{Situation} \\
+        \hline
+        Physical Effect & This saving throw applies to resisting diseases poisons, and other tests of personal hardihood.\\
+        \hline
+        Mental Effect & Mental effect saves are made to resist most psionic powers and other effects that directly influence a character’s mind.\\
+        \hline
+        Exvasion & Evasion saves apply in situations that test an character’s ability to dodge or dive out of the way of peril,\\
+        \hline
+        Tech & Tech saves are made to resist the effects of exotic technology, such as alien beam weapons, nanite infections, strange energy fields, or similar enigmatic powers.\\
+        \hline
+        Luck & When a character’s wellbeing depends purely on dumb luck rather than any effort they might make, a Luck saving throw is in order.\\
+        \hline
+    \end{tabularx}
+    \begin{tabularx}{\columnwidth}{ | l | X | }
+        \hline
+        \multicolumn{2}{|c|}{\textbf{Space Travel Time}} \\
+        \hline
+        \textsc{Distance} & \textsc{Time} \\
+        \hline
+        Within a region & 6 Hours \\
+        \hline
+        From one region to another & 48 Hours \\
+        \hline
+        Interstellar travel & 6 days per hex \\
+        \hline
+    \end{tabularx}
+    \begin{tabularx}{\columnwidth}{ | X | c | }
+        \hline
+        \multicolumn{2}{|c|}{\textbf{Drill Check Difficulty}} \\
+        \hline
+        \textsc{ Circumstance} & \textsc{Modifier} \\
+        \hline
+        Uncharted Course & -4 \\
+        \hline
+        Charts more than five years old & -2 \\
+        \hline
+        Charts from one to five years old & -1 \\
+        \hline
+        Charts less than a year old & +0 \\
+        \hline
+        Distance driller, per two full hexes & -1 \\
+        \hline
+        Course trimming, per level & -1 \\
+        \hline
+    \end{tabularx}
+    \begin{tabularx}{\columnwidth}{ | l | X | }
+        \hline
+        \multicolumn{2}{|c|}{\textbf{Navigation Roll Fails}} \\
+        \hline
+        \textsc{\makecell{Roll \\ (3D6)}} & \textsc{Effect} \\
+        \hline
+        3 & Catastrophic dimensional energy incursion. Ship emerges around a star within 1d6 hexes of the target destination with drive and all systems destroyed. \\
+        \hline
+        4-5 & Shear surge overwhelms internal systems. Ship emerges around star nearest to drill origin. 50\% chance for each system to be nonfunctional until repaired. If the spike drive fails, treat as if a 3 were rolled. \\
+        \hline
+        6-8 & Power spike. One system down until repaired, ship stuck in transit for full base time before being able to make another Navigation check. If the spike drive fails, treat as if a 3 were rolled. \\
+        \hline
+        9-12 & Ship off course. Spend base time in transit, then make another Navigation check. \\
+        \hline
+        13-15 & Ship off course, but detected early. Make another Navigation check. \\
+        \hline
+        16-17 & Drill successful, but takes twice base time. \\
+        \hline
+        18 & Drill successful and on time, by blind luck. \\
+        \hline
+    \end{tabularx}
+    \begin{tabularx}{\columnwidth}{ | X |}
+        \hline
+        \textbf{Skills} \\
+        \hline
+        Artist \\
+        \hline
+        Athletics \\
+        \hline
+        Bureaucracy \\
+        \hline
+        Business \\
+        \hline
+        Combat (Energy, Gunnery, Primitive, Projectile, Psitech, Unarmed) \\
+        \hline
+        Computer \\
+        \hline
+        Culture (Alien, Criminal, Spacer, Traveller, \textit{World}) \\
+        \hline
+        Exosuit \\
+        \hline
+        Gambling \\
+        \hline
+        History \\
+        \hline
+        Instructor \\
+        \hline
+        Language \\
+        \hline
+        Leadership \\
+        \hline
+        Navigation \\
+        \hline
+        Perception \\
+        \hline
+        Persuade \\
+        \hline
+        Profession \\
+        \hline
+        Religion \\
+        \hline
+        Science \\
+        \hline
+        Security \\
+        \hline
+        Stealth \\
+        \hline
+        Steward \\
+        \hline
+        Survival \\ 
+        \hline
+        Tactics \\
+        \hline
+        Tech (Astronautic, Maltech, Medical, Postech, Pretech, Psitech) \\
+        \hline
+        Vehicle (Air, Land, Space, Water) \\
+        \hline
+    \end{tabularx}
+    \begin{tabularx}{\columnwidth}{ | l | X | }
+        \hline
+        \textbf{Roll Type} & \textbf{Roll} \\
+        \hline
+        Initiative & 1D8 + DEX \\
+        \hline
+        Combat & 1D10 + Target AC + ATKR Combat + ATKR ATTR + ATKR Attack Bonus $>=$ 20 is Success \\
+        \hline
+    \end{tabularx}
+    \begin{tabularx}{\columnwidth}{ | l | X | }
+        \hline
+        \textbf{Vehicle} & \textbf{Km/Hr} \\
+        \hline
+        Foot travel & 6 (U ) / 4.5 (L) / 3 (H) \\
+        \hline
+        Riding best & 6 \\
+        \hline
+        Motorcycle & 100 \\
+        \hline
+        Groundcar & 90 \\
+        \hline
+        Hovercycle & 100 \\
+        \hline
+        Gravcar & 90 \\
+        \hline
+        ATV Explorer & 70 \\
+        \hline
+        Helicopter & 250 \\
+        \hline
+        Atmoflyer & 1200 \\
+        \hline
+        Gravflyer & 1500 \\
+        \hline
+        Gravtank & 120 \\
+        \hline
+    \end{tabularx}
+\end{multicols}
+\end{document}
