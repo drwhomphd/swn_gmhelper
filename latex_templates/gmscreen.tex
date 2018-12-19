@@ -83,6 +83,65 @@
         18 & Drill successful and on time, by blind luck. \\
         \hline
     \end{tabularx}
+    \begin{tabularx}{\columnwidth}{ | l | X | }
+        \hline
+        \textbf{Roll Type} & \textbf{Roll} \\
+        \hline
+        Skill Check & 2D6 + Skill + Mod \\
+        \hline 
+        Initiative & 1D8 + DEX \\
+        \hline
+        Combat & 1D10 + Target AC + ATKR Combat + ATKR ATTR + ATKR Attack Bonus $>=$ 20 is Success \\
+        \hline
+    \end{tabularx}
+    \begin{tabularx}{\columnwidth}{ | l | X | }
+        \hline
+        \multicolumn{2}{|c|}{\textbf{Movement Speed}} \\
+        \hline
+        \textsc{Vehicle} & \textsc{Km/Hr} \\
+        \hline
+        Foot travel & 6 (U ) / 4.5 (L) / 3 (H) \\
+        \hline
+        Riding best & 6 \\
+        \hline
+        Motorcycle & 100 \\
+        \hline
+        Groundcar & 90 \\
+        \hline
+        Hovercycle & 100 \\
+        \hline
+        Gravcar & 90 \\
+        \hline
+        ATV Explorer & 70 \\
+        \hline
+        Helicopter & 250 \\
+        \hline
+        Atmoflyer & 1200 \\
+        \hline
+        Gravflyer & 1500 \\
+        \hline
+        Gravtank & 120 \\
+        \hline
+    \end{tabularx}
+    \begin{tabularx}{\columnwidth}{ | X | X | }
+        \hline
+        \multicolumn{2}{|c|}{\textbf{Terrain Speed Penalties}} \\
+        \hline
+        \textsc{Terrain} & \textsc{Speed Penalty} \\
+        \hline
+        Plains / Desert & None \\
+        \hline
+        Light Forest/ Hills / Badlands / & -25\%* \\
+        \hline
+        Heavy Forst / Jungle & -50\% \\
+        \hline
+        Swamps & -50\%* \\
+        \hline
+        Mountains & -90\% \\
+        \hline
+        \multicolumn{2}{|c|}{\makecell{* Grav vehicles ignore \\ this terrain's penalty}} \\
+        \hline
+    \end{tabularx}
     \begin{tabularx}{\columnwidth}{ | X |}
         \hline
         \textbf{Skills} \\
@@ -140,40 +199,73 @@
         Vehicle (Air, Land, Space, Water) \\
         \hline
     \end{tabularx}
-    \begin{tabularx}{\columnwidth}{ | l | X | }
+    \begin{tabularx}{\columnwidth}{ | X | X | }
         \hline
-        \textbf{Roll Type} & \textbf{Roll} \\
+        \multicolumn{2}{|c|}{\textbf{Combat Quicksheet}} \\
         \hline
-        Initiative & 1D8 + DEX \\
+        1 Round & 6 Seconds \\
         \hline
-        Combat & 1D10 + Target AC + ATKR Combat + ATKR ATTR + ATKR Attack Bonus $>=$ 20 is Success \\
+        \textsc{Combat:} & 1 Action \\
+        \hline
+         AND & Move 20 Meters \\
+        \hline
+         \textsc{Combat Actions:} & Attack \\
+        \hline
+          & Reload \\
+        \hline
+          & Complex Interaction With Environent \\
+        \hline
+          & Move 20 More Meters \\
+        \hline
+          & Flee Melee Fight \\
+        \hline
+        \multicolumn{2}{|c|}{\textsc{To Hit Bonuses}} \\
+        \hline
+        Normal Human AC & 9 \\
+        \hline
+        Energy Weapons & +1 To Hit \\
+        \hline
+        No Skill & -2 To Hit \\
         \hline
     \end{tabularx}
-    \begin{tabularx}{\columnwidth}{ | l | X | }
+    \begin{tabularx}{\columnwidth}{| X |}
         \hline
-        \textbf{Vehicle} & \textbf{Km/Hr} \\
+        \textbf{Calibrating Combat} \\
+        Add up all DMG Dice of MOBs \\
+        Multiply by 0.25 and 0.3 \\
+        Result is DMG per round Range \\
         \hline
-        Foot travel & 6 (U ) / 4.5 (L) / 3 (H) \\
+    \end{tabularx}
+    \begin{tabularx}{\columnwidth}{| l | X |}
         \hline
-        Riding best & 6 \\
+        \multicolumn{2}{|c|}{\textbf{Environmental Damage}} \\
         \hline
-        Motorcycle & 100 \\
+        \textsc{Type} & \textsc{Amount} \\
         \hline
-        Groundcar & 90 \\
+        Hard Vaccum & 1D20/rnd, PE for $\frac{1}{2}$ \\
         \hline
-        Hovercycle & 100 \\
+        Falling & 1D6 per 3m, Luck fo $\frac{1}{2}$ \\
         \hline
-        Gravcar & 90 \\
+        Radiation & PE Save. Success = 0, Fail = 1 Con Dmg. TL4 to heal \\
         \hline
-        ATV Explorer & 70 \\
+        Suffocation & 4+CON Mins of Air, PE Saves each round after or fall unconcious \\
         \hline
-        Helicopter & 250 \\
+        Xeno Allergies & Toxicity=9; Interval=1Day. Virulence 1. Failed Save = -1 to hit and skill checks, cumulative. 6 fails = death. \\
         \hline
-        Atmoflyer & 1200 \\
+    \end{tabularx}
+    \begin{tabularx}{\columnwidth}{| l | X |}
         \hline
-        Gravflyer & 1500 \\
+        \multicolumn{2}{|c|}{\textbf{Diseases \& Poisons}} \\
         \hline
-        Gravtank & 120 \\
+        Toxicity & $>= 7$ \\
+        \hline
+        Interval & Time between saving throws \\
+        \hline
+        Virulence & Saving Throws Needed \\
+        \hline
+        \multicolumn{2}{|l|}{PE or Luck Throw used} \\
+        \hline
+        \multicolumn{2}{|l|}{Tech/Medical vs. Toxicity to Cure} \\
         \hline
     \end{tabularx}
 \end{multicols}
