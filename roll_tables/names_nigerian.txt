@@ -1,0 +1,15 @@
+{
+    "stages": 1,
+    "dice": [ "1D100" ],
+    "entries": {
+        "1": {
+            "male":"",
+            "female":"",
+            "surname":
+        }
+    }
+
+}
+
+
+
